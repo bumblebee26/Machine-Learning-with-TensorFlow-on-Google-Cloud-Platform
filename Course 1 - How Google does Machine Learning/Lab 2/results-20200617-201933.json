@@ -1,0 +1,6098 @@
+[
+  {
+    "departure_delay": "-37.0",
+    "num_flights": "107",
+    "arrival_delay_quantiles": [
+      "-66.0",
+      "-41.0",
+      "-30.0",
+      "-17.0",
+      "-3.0",
+      "33.0"
+    ]
+  },
+  {
+    "departure_delay": "-36.0",
+    "num_flights": "139",
+    "arrival_delay_quantiles": [
+      "-74.0",
+      "-39.0",
+      "-32.0",
+      "-18.0",
+      "-7.0",
+      "49.0"
+    ]
+  },
+  {
+    "departure_delay": "-35.0",
+    "num_flights": "191",
+    "arrival_delay_quantiles": [
+      "-68.0",
+      "-40.0",
+      "-28.0",
+      "-14.0",
+      "-4.0",
+      "85.0"
+    ]
+  },
+  {
+    "departure_delay": "-34.0",
+    "num_flights": "195",
+    "arrival_delay_quantiles": [
+      "-58.0",
+      "-40.0",
+      "-30.0",
+      "-19.0",
+      "-8.0",
+      "39.0"
+    ]
+  },
+  {
+    "departure_delay": "-33.0",
+    "num_flights": "227",
+    "arrival_delay_quantiles": [
+      "-59.0",
+      "-39.0",
+      "-32.0",
+      "-20.0",
+      "-7.0",
+      "25.0"
+    ]
+  },
+  {
+    "departure_delay": "-32.0",
+    "num_flights": "277",
+    "arrival_delay_quantiles": [
+      "-58.0",
+      "-38.0",
+      "-32.0",
+      "-22.0",
+      "-5.0",
+      "124.0"
+    ]
+  },
+  {
+    "departure_delay": "-31.0",
+    "num_flights": "311",
+    "arrival_delay_quantiles": [
+      "-58.0",
+      "-37.0",
+      "-31.0",
+      "-22.0",
+      "-7.0",
+      "104.0"
+    ]
+  },
+  {
+    "departure_delay": "-30.0",
+    "num_flights": "658",
+    "arrival_delay_quantiles": [
+      "-90.0",
+      "-37.0",
+      "-29.0",
+      "-18.0",
+      "-5.0",
+      "80.0"
+    ]
+  },
+  {
+    "departure_delay": "-29.0",
+    "num_flights": "502",
+    "arrival_delay_quantiles": [
+      "-53.0",
+      "-35.0",
+      "-29.0",
+      "-21.0",
+      "-6.0",
+      "71.0"
+    ]
+  },
+  {
+    "departure_delay": "-28.0",
+    "num_flights": "648",
+    "arrival_delay_quantiles": [
+      "-54.0",
+      "-34.0",
+      "-29.0",
+      "-21.0",
+      "-7.0",
+      "72.0"
+    ]
+  },
+  {
+    "departure_delay": "-27.0",
+    "num_flights": "796",
+    "arrival_delay_quantiles": [
+      "-82.0",
+      "-34.0",
+      "-28.0",
+      "-20.0",
+      "-9.0",
+      "104.0"
+    ]
+  },
+  {
+    "departure_delay": "-26.0",
+    "num_flights": "1026",
+    "arrival_delay_quantiles": [
+      "-86.0",
+      "-33.0",
+      "-28.0",
+      "-22.0",
+      "-9.0",
+      "135.0"
+    ]
+  },
+  {
+    "departure_delay": "-25.0",
+    "num_flights": "1737",
+    "arrival_delay_quantiles": [
+      "-65.0",
+      "-33.0",
+      "-28.0",
+      "-22.0",
+      "-11.0",
+      "75.0"
+    ]
+  },
+  {
+    "departure_delay": "-24.0",
+    "num_flights": "1629",
+    "arrival_delay_quantiles": [
+      "-60.0",
+      "-33.0",
+      "-27.0",
+      "-22.0",
+      "-12.0",
+      "106.0"
+    ]
+  },
+  {
+    "departure_delay": "-23.0",
+    "num_flights": "2300",
+    "arrival_delay_quantiles": [
+      "-68.0",
+      "-31.0",
+      "-26.0",
+      "-22.0",
+      "-12.0",
+      "148.0"
+    ]
+  },
+  {
+    "departure_delay": "-22.0",
+    "num_flights": "3172",
+    "arrival_delay_quantiles": [
+      "-73.0",
+      "-31.0",
+      "-26.0",
+      "-21.0",
+      "-12.0",
+      "134.0"
+    ]
+  },
+  {
+    "departure_delay": "-21.0",
+    "num_flights": "4321",
+    "arrival_delay_quantiles": [
+      "-80.0",
+      "-30.0",
+      "-25.0",
+      "-20.0",
+      "-13.0",
+      "68.0"
+    ]
+  },
+  {
+    "departure_delay": "-20.0",
+    "num_flights": "10000",
+    "arrival_delay_quantiles": [
+      "-70.0",
+      "-30.0",
+      "-24.0",
+      "-19.0",
+      "-11.0",
+      "130.0"
+    ]
+  },
+  {
+    "departure_delay": "-19.0",
+    "num_flights": "9948",
+    "arrival_delay_quantiles": [
+      "-157.0",
+      "-29.0",
+      "-23.0",
+      "-18.0",
+      "-11.0",
+      "1416.0"
+    ]
+  },
+  {
+    "departure_delay": "-18.0",
+    "num_flights": "15634",
+    "arrival_delay_quantiles": [
+      "-80.0",
+      "-28.0",
+      "-22.0",
+      "-18.0",
+      "-11.0",
+      "186.0"
+    ]
+  },
+  {
+    "departure_delay": "-17.0",
+    "num_flights": "23484",
+    "arrival_delay_quantiles": [
+      "-97.0",
+      "-27.0",
+      "-21.0",
+      "-17.0",
+      "-10.0",
+      "149.0"
+    ]
+  },
+  {
+    "departure_delay": "-16.0",
+    "num_flights": "36884",
+    "arrival_delay_quantiles": [
+      "-88.0",
+      "-26.0",
+      "-20.0",
+      "-16.0",
+      "-9.0",
+      "169.0"
+    ]
+  },
+  {
+    "departure_delay": "-15.0",
+    "num_flights": "85520",
+    "arrival_delay_quantiles": [
+      "-90.0",
+      "-25.0",
+      "-19.0",
+      "-14.0",
+      "-8.0",
+      "910.0"
+    ]
+  },
+  {
+    "departure_delay": "-14.0",
+    "num_flights": "102439",
+    "arrival_delay_quantiles": [
+      "-86.0",
+      "-24.0",
+      "-19.0",
+      "-14.0",
+      "-7.0",
+      "823.0"
+    ]
+  },
+  {
+    "departure_delay": "-13.0",
+    "num_flights": "171819",
+    "arrival_delay_quantiles": [
+      "-80.0",
+      "-23.0",
+      "-18.0",
+      "-13.0",
+      "-6.0",
+      "205.0"
+    ]
+  },
+  {
+    "departure_delay": "-12.0",
+    "num_flights": "279633",
+    "arrival_delay_quantiles": [
+      "-92.0",
+      "-22.0",
+      "-17.0",
+      "-12.0",
+      "-5.0",
+      "1428.0"
+    ]
+  },
+  {
+    "departure_delay": "-11.0",
+    "num_flights": "448266",
+    "arrival_delay_quantiles": [
+      "-94.0",
+      "-21.0",
+      "-16.0",
+      "-11.0",
+      "-5.0",
+      "317.0"
+    ]
+  },
+  {
+    "departure_delay": "-10.0",
+    "num_flights": "1439435",
+    "arrival_delay_quantiles": [
+      "-129.0",
+      "-20.0",
+      "-15.0",
+      "-10.0",
+      "-4.0",
+      "1433.0"
+    ]
+  },
+  {
+    "departure_delay": "-9.0",
+    "num_flights": "1323870",
+    "arrival_delay_quantiles": [
+      "-93.0",
+      "-20.0",
+      "-14.0",
+      "-9.0",
+      "-3.0",
+      "1433.0"
+    ]
+  },
+  {
+    "departure_delay": "-8.0",
+    "num_flights": "1850195",
+    "arrival_delay_quantiles": [
+      "-88.0",
+      "-19.0",
+      "-13.0",
+      "-9.0",
+      "-2.0",
+      "505.0"
+    ]
+  },
+  {
+    "departure_delay": "-7.0",
+    "num_flights": "2502442",
+    "arrival_delay_quantiles": [
+      "-610.0",
+      "-18.0",
+      "-12.0",
+      "-8.0",
+      "-2.0",
+      "1433.0"
+    ]
+  },
+  {
+    "departure_delay": "-6.0",
+    "num_flights": "3243637",
+    "arrival_delay_quantiles": [
+      "-257.0",
+      "-17.0",
+      "-12.0",
+      "-7.0",
+      "-1.0",
+      "1432.0"
+    ]
+  },
+  {
+    "departure_delay": "-5.0",
+    "num_flights": "5179547",
+    "arrival_delay_quantiles": [
+      "-113.0",
+      "-16.0",
+      "-11.0",
+      "-6.0",
+      "0.0",
+      "967.0"
+    ]
+  },
+  {
+    "departure_delay": "-4.0",
+    "num_flights": "4845168",
+    "arrival_delay_quantiles": [
+      "-134.0",
+      "-15.0",
+      "-10.0",
+      "-5.0",
+      "1.0",
+      "1434.0"
+    ]
+  },
+  {
+    "departure_delay": "-3.0",
+    "num_flights": "5024563",
+    "arrival_delay_quantiles": [
+      "-147.0",
+      "-14.0",
+      "-9.0",
+      "-5.0",
+      "1.0",
+      "1431.0"
+    ]
+  },
+  {
+    "departure_delay": "-2.0",
+    "num_flights": "4879039",
+    "arrival_delay_quantiles": [
+      "-245.0",
+      "-13.0",
+      "-8.0",
+      "-4.0",
+      "2.0",
+      "666.0"
+    ]
+  },
+  {
+    "departure_delay": "-1.0",
+    "num_flights": "4424510",
+    "arrival_delay_quantiles": [
+      "-103.0",
+      "-12.0",
+      "-7.0",
+      "-3.0",
+      "4.0",
+      "563.0"
+    ]
+  },
+  {
+    "departure_delay": "0.0",
+    "num_flights": "8658817",
+    "arrival_delay_quantiles": [
+      "-937.0",
+      "-11.0",
+      "-6.0",
+      "-2.0",
+      "3.0",
+      "1435.0"
+    ]
+  },
+  {
+    "departure_delay": "1.0",
+    "num_flights": "2102874",
+    "arrival_delay_quantiles": [
+      "-86.0",
+      "-10.0",
+      "-5.0",
+      "-1.0",
+      "6.0",
+      "468.0"
+    ]
+  },
+  {
+    "departure_delay": "2.0",
+    "num_flights": "1593420",
+    "arrival_delay_quantiles": [
+      "-91.0",
+      "-9.0",
+      "-4.0",
+      "0.0",
+      "7.0",
+      "307.0"
+    ]
+  },
+  {
+    "departure_delay": "3.0",
+    "num_flights": "1323798",
+    "arrival_delay_quantiles": [
+      "-90.0",
+      "-8.0",
+      "-3.0",
+      "2.0",
+      "8.0",
+      "573.0"
+    ]
+  },
+  {
+    "departure_delay": "4.0",
+    "num_flights": "1143966",
+    "arrival_delay_quantiles": [
+      "-81.0",
+      "-7.0",
+      "-2.0",
+      "3.0",
+      "9.0",
+      "1430.0"
+    ]
+  },
+  {
+    "departure_delay": "5.0",
+    "num_flights": "1256666",
+    "arrival_delay_quantiles": [
+      "-221.0",
+      "-6.0",
+      "-1.0",
+      "4.0",
+      "10.0",
+      "1431.0"
+    ]
+  },
+  {
+    "departure_delay": "6.0",
+    "num_flights": "894710",
+    "arrival_delay_quantiles": [
+      "-735.0",
+      "-5.0",
+      "0.0",
+      "4.0",
+      "11.0",
+      "336.0"
+    ]
+  },
+  {
+    "departure_delay": "7.0",
+    "num_flights": "840454",
+    "arrival_delay_quantiles": [
+      "-72.0",
+      "-5.0",
+      "1.0",
+      "5.0",
+      "12.0",
+      "492.0"
+    ]
+  },
+  {
+    "departure_delay": "8.0",
+    "num_flights": "777498",
+    "arrival_delay_quantiles": [
+      "-102.0",
+      "-3.0",
+      "2.0",
+      "6.0",
+      "13.0",
+      "360.0"
+    ]
+  },
+  {
+    "departure_delay": "9.0",
+    "num_flights": "689419",
+    "arrival_delay_quantiles": [
+      "-77.0",
+      "-3.0",
+      "3.0",
+      "7.0",
+      "14.0",
+      "312.0"
+    ]
+  },
+  {
+    "departure_delay": "10.0",
+    "num_flights": "878212",
+    "arrival_delay_quantiles": [
+      "-111.0",
+      "-1.0",
+      "4.0",
+      "8.0",
+      "15.0",
+      "433.0"
+    ]
+  },
+  {
+    "departure_delay": "11.0",
+    "num_flights": "564340",
+    "arrival_delay_quantiles": [
+      "-68.0",
+      "-1.0",
+      "5.0",
+      "9.0",
+      "17.0",
+      "466.0"
+    ]
+  },
+  {
+    "departure_delay": "12.0",
+    "num_flights": "548730",
+    "arrival_delay_quantiles": [
+      "-84.0",
+      "0.0",
+      "6.0",
+      "10.0",
+      "17.0",
+      "410.0"
+    ]
+  },
+  {
+    "departure_delay": "13.0",
+    "num_flights": "516792",
+    "arrival_delay_quantiles": [
+      "-82.0",
+      "1.0",
+      "7.0",
+      "11.0",
+      "18.0",
+      "333.0"
+    ]
+  },
+  {
+    "departure_delay": "14.0",
+    "num_flights": "470798",
+    "arrival_delay_quantiles": [
+      "-97.0",
+      "2.0",
+      "8.0",
+      "12.0",
+      "19.0",
+      "510.0"
+    ]
+  },
+  {
+    "departure_delay": "15.0",
+    "num_flights": "602885",
+    "arrival_delay_quantiles": [
+      "-74.0",
+      "3.0",
+      "9.0",
+      "13.0",
+      "20.0",
+      "992.0"
+    ]
+  },
+  {
+    "departure_delay": "16.0",
+    "num_flights": "396505",
+    "arrival_delay_quantiles": [
+      "-70.0",
+      "4.0",
+      "10.0",
+      "14.0",
+      "22.0",
+      "325.0"
+    ]
+  },
+  {
+    "departure_delay": "17.0",
+    "num_flights": "386417",
+    "arrival_delay_quantiles": [
+      "-76.0",
+      "5.0",
+      "10.0",
+      "15.0",
+      "23.0",
+      "1125.0"
+    ]
+  },
+  {
+    "departure_delay": "18.0",
+    "num_flights": "369034",
+    "arrival_delay_quantiles": [
+      "-62.0",
+      "6.0",
+      "11.0",
+      "16.0",
+      "23.0",
+      "378.0"
+    ]
+  },
+  {
+    "departure_delay": "19.0",
+    "num_flights": "336252",
+    "arrival_delay_quantiles": [
+      "-109.0",
+      "7.0",
+      "12.0",
+      "17.0",
+      "25.0",
+      "1438.0"
+    ]
+  },
+  {
+    "departure_delay": "20.0",
+    "num_flights": "449146",
+    "arrival_delay_quantiles": [
+      "-60.0",
+      "8.0",
+      "14.0",
+      "18.0",
+      "25.0",
+      "976.0"
+    ]
+  },
+  {
+    "departure_delay": "21.0",
+    "num_flights": "292619",
+    "arrival_delay_quantiles": [
+      "-83.0",
+      "9.0",
+      "15.0",
+      "19.0",
+      "27.0",
+      "599.0"
+    ]
+  },
+  {
+    "departure_delay": "22.0",
+    "num_flights": "289913",
+    "arrival_delay_quantiles": [
+      "-58.0",
+      "10.0",
+      "15.0",
+      "20.0",
+      "28.0",
+      "435.0"
+    ]
+  },
+  {
+    "departure_delay": "23.0",
+    "num_flights": "278087",
+    "arrival_delay_quantiles": [
+      "-62.0",
+      "11.0",
+      "17.0",
+      "21.0",
+      "29.0",
+      "308.0"
+    ]
+  },
+  {
+    "departure_delay": "24.0",
+    "num_flights": "256578",
+    "arrival_delay_quantiles": [
+      "-74.0",
+      "12.0",
+      "17.0",
+      "22.0",
+      "30.0",
+      "500.0"
+    ]
+  },
+  {
+    "departure_delay": "25.0",
+    "num_flights": "339385",
+    "arrival_delay_quantiles": [
+      "-60.0",
+      "13.0",
+      "19.0",
+      "24.0",
+      "30.0",
+      "463.0"
+    ]
+  },
+  {
+    "departure_delay": "26.0",
+    "num_flights": "227510",
+    "arrival_delay_quantiles": [
+      "-51.0",
+      "14.0",
+      "20.0",
+      "25.0",
+      "32.0",
+      "401.0"
+    ]
+  },
+  {
+    "departure_delay": "27.0",
+    "num_flights": "225881",
+    "arrival_delay_quantiles": [
+      "-350.0",
+      "15.0",
+      "20.0",
+      "26.0",
+      "33.0",
+      "375.0"
+    ]
+  },
+  {
+    "departure_delay": "28.0",
+    "num_flights": "218773",
+    "arrival_delay_quantiles": [
+      "-52.0",
+      "15.0",
+      "21.0",
+      "26.0",
+      "34.0",
+      "330.0"
+    ]
+  },
+  {
+    "departure_delay": "29.0",
+    "num_flights": "201390",
+    "arrival_delay_quantiles": [
+      "-60.0",
+      "16.0",
+      "22.0",
+      "28.0",
+      "35.0",
+      "343.0"
+    ]
+  },
+  {
+    "departure_delay": "30.0",
+    "num_flights": "276128",
+    "arrival_delay_quantiles": [
+      "-70.0",
+      "18.0",
+      "24.0",
+      "29.0",
+      "36.0",
+      "440.0"
+    ]
+  },
+  {
+    "departure_delay": "31.0",
+    "num_flights": "181158",
+    "arrival_delay_quantiles": [
+      "-51.0",
+      "19.0",
+      "24.0",
+      "30.0",
+      "38.0",
+      "382.0"
+    ]
+  },
+  {
+    "departure_delay": "32.0",
+    "num_flights": "179495",
+    "arrival_delay_quantiles": [
+      "-92.0",
+      "20.0",
+      "25.0",
+      "30.0",
+      "38.0",
+      "871.0"
+    ]
+  },
+  {
+    "departure_delay": "33.0",
+    "num_flights": "175261",
+    "arrival_delay_quantiles": [
+      "-62.0",
+      "20.0",
+      "26.0",
+      "31.0",
+      "39.0",
+      "466.0"
+    ]
+  },
+  {
+    "departure_delay": "34.0",
+    "num_flights": "163452",
+    "arrival_delay_quantiles": [
+      "-42.0",
+      "21.0",
+      "27.0",
+      "33.0",
+      "40.0",
+      "421.0"
+    ]
+  },
+  {
+    "departure_delay": "35.0",
+    "num_flights": "216219",
+    "arrival_delay_quantiles": [
+      "-50.0",
+      "23.0",
+      "29.0",
+      "34.0",
+      "41.0",
+      "684.0"
+    ]
+  },
+  {
+    "departure_delay": "36.0",
+    "num_flights": "148229",
+    "arrival_delay_quantiles": [
+      "-44.0",
+      "23.0",
+      "29.0",
+      "35.0",
+      "43.0",
+      "359.0"
+    ]
+  },
+  {
+    "departure_delay": "37.0",
+    "num_flights": "148389",
+    "arrival_delay_quantiles": [
+      "-40.0",
+      "24.0",
+      "30.0",
+      "35.0",
+      "43.0",
+      "299.0"
+    ]
+  },
+  {
+    "departure_delay": "38.0",
+    "num_flights": "145108",
+    "arrival_delay_quantiles": [
+      "-40.0",
+      "25.0",
+      "31.0",
+      "36.0",
+      "45.0",
+      "322.0"
+    ]
+  },
+  {
+    "departure_delay": "39.0",
+    "num_flights": "134592",
+    "arrival_delay_quantiles": [
+      "-41.0",
+      "26.0",
+      "32.0",
+      "37.0",
+      "46.0",
+      "352.0"
+    ]
+  },
+  {
+    "departure_delay": "40.0",
+    "num_flights": "181911",
+    "arrival_delay_quantiles": [
+      "-49.0",
+      "28.0",
+      "34.0",
+      "39.0",
+      "46.0",
+      "399.0"
+    ]
+  },
+  {
+    "departure_delay": "41.0",
+    "num_flights": "123454",
+    "arrival_delay_quantiles": [
+      "-32.0",
+      "28.0",
+      "34.0",
+      "40.0",
+      "48.0",
+      "388.0"
+    ]
+  },
+  {
+    "departure_delay": "42.0",
+    "num_flights": "124169",
+    "arrival_delay_quantiles": [
+      "-45.0",
+      "29.0",
+      "35.0",
+      "41.0",
+      "49.0",
+      "410.0"
+    ]
+  },
+  {
+    "departure_delay": "43.0",
+    "num_flights": "121813",
+    "arrival_delay_quantiles": [
+      "-31.0",
+      "30.0",
+      "36.0",
+      "42.0",
+      "50.0",
+      "378.0"
+    ]
+  },
+  {
+    "departure_delay": "44.0",
+    "num_flights": "114803",
+    "arrival_delay_quantiles": [
+      "-31.0",
+      "31.0",
+      "37.0",
+      "43.0",
+      "51.0",
+      "356.0"
+    ]
+  },
+  {
+    "departure_delay": "45.0",
+    "num_flights": "153401",
+    "arrival_delay_quantiles": [
+      "-34.0",
+      "33.0",
+      "39.0",
+      "44.0",
+      "52.0",
+      "516.0"
+    ]
+  },
+  {
+    "departure_delay": "46.0",
+    "num_flights": "105187",
+    "arrival_delay_quantiles": [
+      "-28.0",
+      "33.0",
+      "39.0",
+      "45.0",
+      "53.0",
+      "403.0"
+    ]
+  },
+  {
+    "departure_delay": "47.0",
+    "num_flights": "105212",
+    "arrival_delay_quantiles": [
+      "-30.0",
+      "34.0",
+      "40.0",
+      "46.0",
+      "54.0",
+      "324.0"
+    ]
+  },
+  {
+    "departure_delay": "48.0",
+    "num_flights": "103493",
+    "arrival_delay_quantiles": [
+      "-43.0",
+      "35.0",
+      "41.0",
+      "47.0",
+      "55.0",
+      "343.0"
+    ]
+  },
+  {
+    "departure_delay": "49.0",
+    "num_flights": "97689",
+    "arrival_delay_quantiles": [
+      "-27.0",
+      "36.0",
+      "42.0",
+      "48.0",
+      "56.0",
+      "1203.0"
+    ]
+  },
+  {
+    "departure_delay": "50.0",
+    "num_flights": "130941",
+    "arrival_delay_quantiles": [
+      "-32.0",
+      "38.0",
+      "44.0",
+      "49.0",
+      "57.0",
+      "351.0"
+    ]
+  },
+  {
+    "departure_delay": "51.0",
+    "num_flights": "90341",
+    "arrival_delay_quantiles": [
+      "-45.0",
+      "38.0",
+      "44.0",
+      "50.0",
+      "58.0",
+      "770.0"
+    ]
+  },
+  {
+    "departure_delay": "52.0",
+    "num_flights": "91492",
+    "arrival_delay_quantiles": [
+      "-28.0",
+      "39.0",
+      "45.0",
+      "51.0",
+      "59.0",
+      "370.0"
+    ]
+  },
+  {
+    "departure_delay": "53.0",
+    "num_flights": "89335",
+    "arrival_delay_quantiles": [
+      "-62.0",
+      "40.0",
+      "46.0",
+      "52.0",
+      "60.0",
+      "327.0"
+    ]
+  },
+  {
+    "departure_delay": "54.0",
+    "num_flights": "83926",
+    "arrival_delay_quantiles": [
+      "-770.0",
+      "41.0",
+      "47.0",
+      "53.0",
+      "62.0",
+      "345.0"
+    ]
+  },
+  {
+    "departure_delay": "55.0",
+    "num_flights": "111701",
+    "arrival_delay_quantiles": [
+      "-35.0",
+      "43.0",
+      "49.0",
+      "54.0",
+      "62.0",
+      "450.0"
+    ]
+  },
+  {
+    "departure_delay": "56.0",
+    "num_flights": "79201",
+    "arrival_delay_quantiles": [
+      "-31.0",
+      "43.0",
+      "49.0",
+      "55.0",
+      "64.0",
+      "414.0"
+    ]
+  },
+  {
+    "departure_delay": "57.0",
+    "num_flights": "79277",
+    "arrival_delay_quantiles": [
+      "-28.0",
+      "44.0",
+      "50.0",
+      "56.0",
+      "65.0",
+      "324.0"
+    ]
+  },
+  {
+    "departure_delay": "58.0",
+    "num_flights": "78222",
+    "arrival_delay_quantiles": [
+      "-21.0",
+      "45.0",
+      "51.0",
+      "57.0",
+      "66.0",
+      "594.0"
+    ]
+  },
+  {
+    "departure_delay": "59.0",
+    "num_flights": "74312",
+    "arrival_delay_quantiles": [
+      "-14.0",
+      "46.0",
+      "53.0",
+      "58.0",
+      "67.0",
+      "316.0"
+    ]
+  },
+  {
+    "departure_delay": "60.0",
+    "num_flights": "103984",
+    "arrival_delay_quantiles": [
+      "-36.0",
+      "48.0",
+      "54.0",
+      "59.0",
+      "68.0",
+      "387.0"
+    ]
+  },
+  {
+    "departure_delay": "61.0",
+    "num_flights": "68690",
+    "arrival_delay_quantiles": [
+      "-25.0",
+      "48.0",
+      "54.0",
+      "60.0",
+      "69.0",
+      "337.0"
+    ]
+  },
+  {
+    "departure_delay": "62.0",
+    "num_flights": "68787",
+    "arrival_delay_quantiles": [
+      "-12.0",
+      "49.0",
+      "55.0",
+      "61.0",
+      "70.0",
+      "392.0"
+    ]
+  },
+  {
+    "departure_delay": "63.0",
+    "num_flights": "68010",
+    "arrival_delay_quantiles": [
+      "-11.0",
+      "50.0",
+      "57.0",
+      "62.0",
+      "71.0",
+      "331.0"
+    ]
+  },
+  {
+    "departure_delay": "64.0",
+    "num_flights": "64377",
+    "arrival_delay_quantiles": [
+      "-25.0",
+      "51.0",
+      "57.0",
+      "63.0",
+      "72.0",
+      "363.0"
+    ]
+  },
+  {
+    "departure_delay": "65.0",
+    "num_flights": "84234",
+    "arrival_delay_quantiles": [
+      "-42.0",
+      "52.0",
+      "59.0",
+      "64.0",
+      "73.0",
+      "372.0"
+    ]
+  },
+  {
+    "departure_delay": "66.0",
+    "num_flights": "60513",
+    "arrival_delay_quantiles": [
+      "-30.0",
+      "53.0",
+      "59.0",
+      "65.0",
+      "74.0",
+      "331.0"
+    ]
+  },
+  {
+    "departure_delay": "67.0",
+    "num_flights": "60854",
+    "arrival_delay_quantiles": [
+      "-4.0",
+      "54.0",
+      "60.0",
+      "66.0",
+      "75.0",
+      "408.0"
+    ]
+  },
+  {
+    "departure_delay": "68.0",
+    "num_flights": "59611",
+    "arrival_delay_quantiles": [
+      "-6.0",
+      "55.0",
+      "61.0",
+      "67.0",
+      "76.0",
+      "456.0"
+    ]
+  },
+  {
+    "departure_delay": "69.0",
+    "num_flights": "56917",
+    "arrival_delay_quantiles": [
+      "-14.0",
+      "56.0",
+      "63.0",
+      "68.0",
+      "77.0",
+      "348.0"
+    ]
+  },
+  {
+    "departure_delay": "70.0",
+    "num_flights": "74946",
+    "arrival_delay_quantiles": [
+      "-54.0",
+      "58.0",
+      "64.0",
+      "69.0",
+      "78.0",
+      "366.0"
+    ]
+  },
+  {
+    "departure_delay": "71.0",
+    "num_flights": "53490",
+    "arrival_delay_quantiles": [
+      "-8.0",
+      "58.0",
+      "65.0",
+      "70.0",
+      "79.0",
+      "404.0"
+    ]
+  },
+  {
+    "departure_delay": "72.0",
+    "num_flights": "53645",
+    "arrival_delay_quantiles": [
+      "-10.0",
+      "59.0",
+      "65.0",
+      "71.0",
+      "80.0",
+      "366.0"
+    ]
+  },
+  {
+    "departure_delay": "73.0",
+    "num_flights": "52837",
+    "arrival_delay_quantiles": [
+      "-4.0",
+      "60.0",
+      "67.0",
+      "72.0",
+      "81.0",
+      "368.0"
+    ]
+  },
+  {
+    "departure_delay": "74.0",
+    "num_flights": "49862",
+    "arrival_delay_quantiles": [
+      "-1.0",
+      "61.0",
+      "67.0",
+      "73.0",
+      "82.0",
+      "569.0"
+    ]
+  },
+  {
+    "departure_delay": "75.0",
+    "num_flights": "66520",
+    "arrival_delay_quantiles": [
+      "-11.0",
+      "63.0",
+      "69.0",
+      "75.0",
+      "84.0",
+      "386.0"
+    ]
+  },
+  {
+    "departure_delay": "76.0",
+    "num_flights": "47803",
+    "arrival_delay_quantiles": [
+      "2.0",
+      "63.0",
+      "70.0",
+      "75.0",
+      "85.0",
+      "381.0"
+    ]
+  },
+  {
+    "departure_delay": "77.0",
+    "num_flights": "47117",
+    "arrival_delay_quantiles": [
+      "5.0",
+      "64.0",
+      "70.0",
+      "76.0",
+      "86.0",
+      "418.0"
+    ]
+  },
+  {
+    "departure_delay": "78.0",
+    "num_flights": "46623",
+    "arrival_delay_quantiles": [
+      "10.0",
+      "65.0",
+      "71.0",
+      "77.0",
+      "87.0",
+      "467.0"
+    ]
+  },
+  {
+    "departure_delay": "79.0",
+    "num_flights": "44998",
+    "arrival_delay_quantiles": [
+      "6.0",
+      "66.0",
+      "72.0",
+      "78.0",
+      "88.0",
+      "757.0"
+    ]
+  },
+  {
+    "departure_delay": "80.0",
+    "num_flights": "58548",
+    "arrival_delay_quantiles": [
+      "-7.0",
+      "67.0",
+      "74.0",
+      "80.0",
+      "89.0",
+      "355.0"
+    ]
+  },
+  {
+    "departure_delay": "81.0",
+    "num_flights": "42382",
+    "arrival_delay_quantiles": [
+      "-47.0",
+      "68.0",
+      "75.0",
+      "80.0",
+      "90.0",
+      "322.0"
+    ]
+  },
+  {
+    "departure_delay": "82.0",
+    "num_flights": "42280",
+    "arrival_delay_quantiles": [
+      "5.0",
+      "69.0",
+      "76.0",
+      "81.0",
+      "91.0",
+      "412.0"
+    ]
+  },
+  {
+    "departure_delay": "83.0",
+    "num_flights": "42000",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "70.0",
+      "77.0",
+      "83.0",
+      "92.0",
+      "359.0"
+    ]
+  },
+  {
+    "departure_delay": "84.0",
+    "num_flights": "40297",
+    "arrival_delay_quantiles": [
+      "-26.0",
+      "71.0",
+      "78.0",
+      "83.0",
+      "93.0",
+      "385.0"
+    ]
+  },
+  {
+    "departure_delay": "85.0",
+    "num_flights": "51785",
+    "arrival_delay_quantiles": [
+      "-31.0",
+      "73.0",
+      "79.0",
+      "85.0",
+      "94.0",
+      "381.0"
+    ]
+  },
+  {
+    "departure_delay": "86.0",
+    "num_flights": "37722",
+    "arrival_delay_quantiles": [
+      "15.0",
+      "73.0",
+      "80.0",
+      "85.0",
+      "95.0",
+      "410.0"
+    ]
+  },
+  {
+    "departure_delay": "87.0",
+    "num_flights": "38058",
+    "arrival_delay_quantiles": [
+      "-45.0",
+      "74.0",
+      "81.0",
+      "87.0",
+      "96.0",
+      "396.0"
+    ]
+  },
+  {
+    "departure_delay": "88.0",
+    "num_flights": "37527",
+    "arrival_delay_quantiles": [
+      "-5.0",
+      "75.0",
+      "82.0",
+      "87.0",
+      "97.0",
+      "384.0"
+    ]
+  },
+  {
+    "departure_delay": "89.0",
+    "num_flights": "35972",
+    "arrival_delay_quantiles": [
+      "7.0",
+      "76.0",
+      "83.0",
+      "88.0",
+      "98.0",
+      "339.0"
+    ]
+  },
+  {
+    "departure_delay": "90.0",
+    "num_flights": "47414",
+    "arrival_delay_quantiles": [
+      "5.0",
+      "78.0",
+      "84.0",
+      "90.0",
+      "99.0",
+      "357.0"
+    ]
+  },
+  {
+    "departure_delay": "91.0",
+    "num_flights": "33928",
+    "arrival_delay_quantiles": [
+      "6.0",
+      "78.0",
+      "85.0",
+      "91.0",
+      "100.0",
+      "329.0"
+    ]
+  },
+  {
+    "departure_delay": "92.0",
+    "num_flights": "33841",
+    "arrival_delay_quantiles": [
+      "4.0",
+      "79.0",
+      "86.0",
+      "91.0",
+      "101.0",
+      "346.0"
+    ]
+  },
+  {
+    "departure_delay": "93.0",
+    "num_flights": "33171",
+    "arrival_delay_quantiles": [
+      "16.0",
+      "80.0",
+      "87.0",
+      "93.0",
+      "102.0",
+      "395.0"
+    ]
+  },
+  {
+    "departure_delay": "94.0",
+    "num_flights": "32010",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "81.0",
+      "88.0",
+      "94.0",
+      "103.0",
+      "403.0"
+    ]
+  },
+  {
+    "departure_delay": "95.0",
+    "num_flights": "41422",
+    "arrival_delay_quantiles": [
+      "20.0",
+      "82.0",
+      "89.0",
+      "95.0",
+      "105.0",
+      "389.0"
+    ]
+  },
+  {
+    "departure_delay": "96.0",
+    "num_flights": "30428",
+    "arrival_delay_quantiles": [
+      "-5.0",
+      "83.0",
+      "90.0",
+      "96.0",
+      "105.0",
+      "375.0"
+    ]
+  },
+  {
+    "departure_delay": "97.0",
+    "num_flights": "30143",
+    "arrival_delay_quantiles": [
+      "22.0",
+      "84.0",
+      "91.0",
+      "97.0",
+      "106.0",
+      "453.0"
+    ]
+  },
+  {
+    "departure_delay": "98.0",
+    "num_flights": "29933",
+    "arrival_delay_quantiles": [
+      "25.0",
+      "85.0",
+      "92.0",
+      "98.0",
+      "107.0",
+      "468.0"
+    ]
+  },
+  {
+    "departure_delay": "99.0",
+    "num_flights": "28760",
+    "arrival_delay_quantiles": [
+      "-39.0",
+      "86.0",
+      "93.0",
+      "99.0",
+      "108.0",
+      "348.0"
+    ]
+  },
+  {
+    "departure_delay": "100.0",
+    "num_flights": "37091",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "88.0",
+      "94.0",
+      "100.0",
+      "110.0",
+      "381.0"
+    ]
+  },
+  {
+    "departure_delay": "101.0",
+    "num_flights": "27374",
+    "arrival_delay_quantiles": [
+      "25.0",
+      "88.0",
+      "95.0",
+      "101.0",
+      "110.0",
+      "351.0"
+    ]
+  },
+  {
+    "departure_delay": "102.0",
+    "num_flights": "27290",
+    "arrival_delay_quantiles": [
+      "35.0",
+      "89.0",
+      "96.0",
+      "102.0",
+      "111.0",
+      "376.0"
+    ]
+  },
+  {
+    "departure_delay": "103.0",
+    "num_flights": "26965",
+    "arrival_delay_quantiles": [
+      "38.0",
+      "90.0",
+      "97.0",
+      "103.0",
+      "112.0",
+      "417.0"
+    ]
+  },
+  {
+    "departure_delay": "104.0",
+    "num_flights": "25945",
+    "arrival_delay_quantiles": [
+      "25.0",
+      "91.0",
+      "98.0",
+      "104.0",
+      "113.0",
+      "358.0"
+    ]
+  },
+  {
+    "departure_delay": "105.0",
+    "num_flights": "33562",
+    "arrival_delay_quantiles": [
+      "25.0",
+      "93.0",
+      "99.0",
+      "105.0",
+      "115.0",
+      "513.0"
+    ]
+  },
+  {
+    "departure_delay": "106.0",
+    "num_flights": "24883",
+    "arrival_delay_quantiles": [
+      "34.0",
+      "93.0",
+      "100.0",
+      "106.0",
+      "116.0",
+      "426.0"
+    ]
+  },
+  {
+    "departure_delay": "107.0",
+    "num_flights": "24384",
+    "arrival_delay_quantiles": [
+      "-5.0",
+      "94.0",
+      "101.0",
+      "107.0",
+      "116.0",
+      "308.0"
+    ]
+  },
+  {
+    "departure_delay": "108.0",
+    "num_flights": "24381",
+    "arrival_delay_quantiles": [
+      "25.0",
+      "95.0",
+      "102.0",
+      "108.0",
+      "118.0",
+      "450.0"
+    ]
+  },
+  {
+    "departure_delay": "109.0",
+    "num_flights": "23685",
+    "arrival_delay_quantiles": [
+      "32.0",
+      "96.0",
+      "103.0",
+      "109.0",
+      "119.0",
+      "447.0"
+    ]
+  },
+  {
+    "departure_delay": "110.0",
+    "num_flights": "30236",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "98.0",
+      "104.0",
+      "110.0",
+      "120.0",
+      "436.0"
+    ]
+  },
+  {
+    "departure_delay": "111.0",
+    "num_flights": "22149",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "98.0",
+      "105.0",
+      "111.0",
+      "122.0",
+      "395.0"
+    ]
+  },
+  {
+    "departure_delay": "112.0",
+    "num_flights": "22548",
+    "arrival_delay_quantiles": [
+      "16.0",
+      "99.0",
+      "106.0",
+      "112.0",
+      "122.0",
+      "335.0"
+    ]
+  },
+  {
+    "departure_delay": "113.0",
+    "num_flights": "21805",
+    "arrival_delay_quantiles": [
+      "13.0",
+      "100.0",
+      "107.0",
+      "113.0",
+      "123.0",
+      "435.0"
+    ]
+  },
+  {
+    "departure_delay": "114.0",
+    "num_flights": "21055",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "101.0",
+      "108.0",
+      "114.0",
+      "124.0",
+      "378.0"
+    ]
+  },
+  {
+    "departure_delay": "115.0",
+    "num_flights": "27070",
+    "arrival_delay_quantiles": [
+      "15.0",
+      "103.0",
+      "109.0",
+      "115.0",
+      "125.0",
+      "352.0"
+    ]
+  },
+  {
+    "departure_delay": "116.0",
+    "num_flights": "19772",
+    "arrival_delay_quantiles": [
+      "38.0",
+      "103.0",
+      "110.0",
+      "116.0",
+      "126.0",
+      "368.0"
+    ]
+  },
+  {
+    "departure_delay": "117.0",
+    "num_flights": "19950",
+    "arrival_delay_quantiles": [
+      "54.0",
+      "104.0",
+      "111.0",
+      "117.0",
+      "127.0",
+      "355.0"
+    ]
+  },
+  {
+    "departure_delay": "118.0",
+    "num_flights": "20117",
+    "arrival_delay_quantiles": [
+      "50.0",
+      "105.0",
+      "112.0",
+      "118.0",
+      "128.0",
+      "399.0"
+    ]
+  },
+  {
+    "departure_delay": "119.0",
+    "num_flights": "19579",
+    "arrival_delay_quantiles": [
+      "-3.0",
+      "106.0",
+      "113.0",
+      "119.0",
+      "129.0",
+      "421.0"
+    ]
+  },
+  {
+    "departure_delay": "120.0",
+    "num_flights": "25727",
+    "arrival_delay_quantiles": [
+      "45.0",
+      "108.0",
+      "114.0",
+      "120.0",
+      "130.0",
+      "392.0"
+    ]
+  },
+  {
+    "departure_delay": "121.0",
+    "num_flights": "18241",
+    "arrival_delay_quantiles": [
+      "55.0",
+      "108.0",
+      "115.0",
+      "121.0",
+      "132.0",
+      "475.0"
+    ]
+  },
+  {
+    "departure_delay": "122.0",
+    "num_flights": "18264",
+    "arrival_delay_quantiles": [
+      "51.0",
+      "109.0",
+      "116.0",
+      "122.0",
+      "132.0",
+      "417.0"
+    ]
+  },
+  {
+    "departure_delay": "123.0",
+    "num_flights": "18030",
+    "arrival_delay_quantiles": [
+      "49.0",
+      "110.0",
+      "117.0",
+      "123.0",
+      "133.0",
+      "423.0"
+    ]
+  },
+  {
+    "departure_delay": "124.0",
+    "num_flights": "17471",
+    "arrival_delay_quantiles": [
+      "48.0",
+      "111.0",
+      "118.0",
+      "124.0",
+      "134.0",
+      "392.0"
+    ]
+  },
+  {
+    "departure_delay": "125.0",
+    "num_flights": "21960",
+    "arrival_delay_quantiles": [
+      "38.0",
+      "112.0",
+      "119.0",
+      "125.0",
+      "135.0",
+      "521.0"
+    ]
+  },
+  {
+    "departure_delay": "126.0",
+    "num_flights": "16443",
+    "arrival_delay_quantiles": [
+      "49.0",
+      "113.0",
+      "120.0",
+      "126.0",
+      "136.0",
+      "449.0"
+    ]
+  },
+  {
+    "departure_delay": "127.0",
+    "num_flights": "16436",
+    "arrival_delay_quantiles": [
+      "58.0",
+      "114.0",
+      "121.0",
+      "127.0",
+      "137.0",
+      "317.0"
+    ]
+  },
+  {
+    "departure_delay": "128.0",
+    "num_flights": "16230",
+    "arrival_delay_quantiles": [
+      "30.0",
+      "115.0",
+      "122.0",
+      "128.0",
+      "138.0",
+      "532.0"
+    ]
+  },
+  {
+    "departure_delay": "129.0",
+    "num_flights": "15594",
+    "arrival_delay_quantiles": [
+      "48.0",
+      "116.0",
+      "123.0",
+      "129.0",
+      "139.0",
+      "786.0"
+    ]
+  },
+  {
+    "departure_delay": "130.0",
+    "num_flights": "19900",
+    "arrival_delay_quantiles": [
+      "52.0",
+      "117.0",
+      "124.0",
+      "130.0",
+      "140.0",
+      "522.0"
+    ]
+  },
+  {
+    "departure_delay": "131.0",
+    "num_flights": "14948",
+    "arrival_delay_quantiles": [
+      "65.0",
+      "118.0",
+      "125.0",
+      "131.0",
+      "141.0",
+      "438.0"
+    ]
+  },
+  {
+    "departure_delay": "132.0",
+    "num_flights": "14804",
+    "arrival_delay_quantiles": [
+      "55.0",
+      "119.0",
+      "126.0",
+      "132.0",
+      "143.0",
+      "451.0"
+    ]
+  },
+  {
+    "departure_delay": "133.0",
+    "num_flights": "14735",
+    "arrival_delay_quantiles": [
+      "63.0",
+      "120.0",
+      "127.0",
+      "133.0",
+      "143.0",
+      "422.0"
+    ]
+  },
+  {
+    "departure_delay": "134.0",
+    "num_flights": "14293",
+    "arrival_delay_quantiles": [
+      "67.0",
+      "121.0",
+      "128.0",
+      "134.0",
+      "144.0",
+      "337.0"
+    ]
+  },
+  {
+    "departure_delay": "135.0",
+    "num_flights": "18164",
+    "arrival_delay_quantiles": [
+      "-1302.0",
+      "122.0",
+      "129.0",
+      "135.0",
+      "146.0",
+      "336.0"
+    ]
+  },
+  {
+    "departure_delay": "136.0",
+    "num_flights": "13569",
+    "arrival_delay_quantiles": [
+      "60.0",
+      "123.0",
+      "130.0",
+      "136.0",
+      "146.0",
+      "657.0"
+    ]
+  },
+  {
+    "departure_delay": "137.0",
+    "num_flights": "13727",
+    "arrival_delay_quantiles": [
+      "69.0",
+      "124.0",
+      "131.0",
+      "137.0",
+      "147.0",
+      "374.0"
+    ]
+  },
+  {
+    "departure_delay": "138.0",
+    "num_flights": "13442",
+    "arrival_delay_quantiles": [
+      "45.0",
+      "125.0",
+      "132.0",
+      "138.0",
+      "148.0",
+      "382.0"
+    ]
+  },
+  {
+    "departure_delay": "139.0",
+    "num_flights": "13003",
+    "arrival_delay_quantiles": [
+      "80.0",
+      "126.0",
+      "133.0",
+      "139.0",
+      "150.0",
+      "421.0"
+    ]
+  },
+  {
+    "departure_delay": "140.0",
+    "num_flights": "16524",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "127.0",
+      "134.0",
+      "140.0",
+      "151.0",
+      "458.0"
+    ]
+  },
+  {
+    "departure_delay": "141.0",
+    "num_flights": "12213",
+    "arrival_delay_quantiles": [
+      "74.0",
+      "128.0",
+      "135.0",
+      "141.0",
+      "151.0",
+      "478.0"
+    ]
+  },
+  {
+    "departure_delay": "142.0",
+    "num_flights": "12285",
+    "arrival_delay_quantiles": [
+      "76.0",
+      "129.0",
+      "136.0",
+      "142.0",
+      "152.0",
+      "397.0"
+    ]
+  },
+  {
+    "departure_delay": "143.0",
+    "num_flights": "12229",
+    "arrival_delay_quantiles": [
+      "22.0",
+      "130.0",
+      "136.0",
+      "143.0",
+      "153.0",
+      "445.0"
+    ]
+  },
+  {
+    "departure_delay": "144.0",
+    "num_flights": "11825",
+    "arrival_delay_quantiles": [
+      "67.0",
+      "131.0",
+      "138.0",
+      "144.0",
+      "154.0",
+      "467.0"
+    ]
+  },
+  {
+    "departure_delay": "145.0",
+    "num_flights": "14801",
+    "arrival_delay_quantiles": [
+      "78.0",
+      "132.0",
+      "139.0",
+      "145.0",
+      "155.0",
+      "429.0"
+    ]
+  },
+  {
+    "departure_delay": "146.0",
+    "num_flights": "11164",
+    "arrival_delay_quantiles": [
+      "84.0",
+      "133.0",
+      "140.0",
+      "146.0",
+      "157.0",
+      "415.0"
+    ]
+  },
+  {
+    "departure_delay": "147.0",
+    "num_flights": "11300",
+    "arrival_delay_quantiles": [
+      "92.0",
+      "134.0",
+      "141.0",
+      "147.0",
+      "157.0",
+      "392.0"
+    ]
+  },
+  {
+    "departure_delay": "148.0",
+    "num_flights": "11067",
+    "arrival_delay_quantiles": [
+      "51.0",
+      "135.0",
+      "142.0",
+      "148.0",
+      "158.0",
+      "360.0"
+    ]
+  },
+  {
+    "departure_delay": "149.0",
+    "num_flights": "10647",
+    "arrival_delay_quantiles": [
+      "68.0",
+      "135.0",
+      "142.0",
+      "149.0",
+      "160.0",
+      "353.0"
+    ]
+  },
+  {
+    "departure_delay": "150.0",
+    "num_flights": "13898",
+    "arrival_delay_quantiles": [
+      "5.0",
+      "137.0",
+      "144.0",
+      "150.0",
+      "160.0",
+      "450.0"
+    ]
+  },
+  {
+    "departure_delay": "151.0",
+    "num_flights": "10191",
+    "arrival_delay_quantiles": [
+      "46.0",
+      "137.0",
+      "144.0",
+      "151.0",
+      "160.0",
+      "391.0"
+    ]
+  },
+  {
+    "departure_delay": "152.0",
+    "num_flights": "10266",
+    "arrival_delay_quantiles": [
+      "61.0",
+      "139.0",
+      "146.0",
+      "152.0",
+      "163.0",
+      "359.0"
+    ]
+  },
+  {
+    "departure_delay": "153.0",
+    "num_flights": "10162",
+    "arrival_delay_quantiles": [
+      "48.0",
+      "139.0",
+      "146.0",
+      "153.0",
+      "163.0",
+      "394.0"
+    ]
+  },
+  {
+    "departure_delay": "154.0",
+    "num_flights": "9764",
+    "arrival_delay_quantiles": [
+      "-39.0",
+      "140.0",
+      "148.0",
+      "154.0",
+      "164.0",
+      "497.0"
+    ]
+  },
+  {
+    "departure_delay": "155.0",
+    "num_flights": "12365",
+    "arrival_delay_quantiles": [
+      "78.0",
+      "142.0",
+      "149.0",
+      "155.0",
+      "166.0",
+      "427.0"
+    ]
+  },
+  {
+    "departure_delay": "156.0",
+    "num_flights": "9313",
+    "arrival_delay_quantiles": [
+      "91.0",
+      "142.0",
+      "150.0",
+      "156.0",
+      "167.0",
+      "492.0"
+    ]
+  },
+  {
+    "departure_delay": "157.0",
+    "num_flights": "9409",
+    "arrival_delay_quantiles": [
+      "33.0",
+      "143.0",
+      "150.0",
+      "157.0",
+      "167.0",
+      "340.0"
+    ]
+  },
+  {
+    "departure_delay": "158.0",
+    "num_flights": "9181",
+    "arrival_delay_quantiles": [
+      "96.0",
+      "144.0",
+      "151.0",
+      "158.0",
+      "168.0",
+      "373.0"
+    ]
+  },
+  {
+    "departure_delay": "159.0",
+    "num_flights": "9018",
+    "arrival_delay_quantiles": [
+      "84.0",
+      "145.0",
+      "152.0",
+      "159.0",
+      "170.0",
+      "438.0"
+    ]
+  },
+  {
+    "departure_delay": "160.0",
+    "num_flights": "11297",
+    "arrival_delay_quantiles": [
+      "39.0",
+      "147.0",
+      "154.0",
+      "160.0",
+      "171.0",
+      "563.0"
+    ]
+  },
+  {
+    "departure_delay": "161.0",
+    "num_flights": "8453",
+    "arrival_delay_quantiles": [
+      "98.0",
+      "147.0",
+      "154.0",
+      "161.0",
+      "171.0",
+      "382.0"
+    ]
+  },
+  {
+    "departure_delay": "162.0",
+    "num_flights": "8640",
+    "arrival_delay_quantiles": [
+      "83.0",
+      "149.0",
+      "155.0",
+      "162.0",
+      "173.0",
+      "389.0"
+    ]
+  },
+  {
+    "departure_delay": "163.0",
+    "num_flights": "8414",
+    "arrival_delay_quantiles": [
+      "92.0",
+      "149.0",
+      "156.0",
+      "163.0",
+      "173.0",
+      "486.0"
+    ]
+  },
+  {
+    "departure_delay": "164.0",
+    "num_flights": "8085",
+    "arrival_delay_quantiles": [
+      "103.0",
+      "150.0",
+      "157.0",
+      "164.0",
+      "175.0",
+      "463.0"
+    ]
+  },
+  {
+    "departure_delay": "165.0",
+    "num_flights": "10544",
+    "arrival_delay_quantiles": [
+      "75.0",
+      "151.0",
+      "159.0",
+      "165.0",
+      "176.0",
+      "472.0"
+    ]
+  },
+  {
+    "departure_delay": "166.0",
+    "num_flights": "7796",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "152.0",
+      "159.0",
+      "166.0",
+      "176.0",
+      "423.0"
+    ]
+  },
+  {
+    "departure_delay": "167.0",
+    "num_flights": "7765",
+    "arrival_delay_quantiles": [
+      "88.0",
+      "153.0",
+      "160.0",
+      "167.0",
+      "177.0",
+      "449.0"
+    ]
+  },
+  {
+    "departure_delay": "168.0",
+    "num_flights": "7575",
+    "arrival_delay_quantiles": [
+      "94.0",
+      "154.0",
+      "161.0",
+      "168.0",
+      "178.0",
+      "433.0"
+    ]
+  },
+  {
+    "departure_delay": "169.0",
+    "num_flights": "7392",
+    "arrival_delay_quantiles": [
+      "105.0",
+      "155.0",
+      "162.0",
+      "169.0",
+      "180.0",
+      "403.0"
+    ]
+  },
+  {
+    "departure_delay": "170.0",
+    "num_flights": "9599",
+    "arrival_delay_quantiles": [
+      "14.0",
+      "156.0",
+      "164.0",
+      "170.0",
+      "181.0",
+      "421.0"
+    ]
+  },
+  {
+    "departure_delay": "171.0",
+    "num_flights": "7214",
+    "arrival_delay_quantiles": [
+      "75.0",
+      "158.0",
+      "164.0",
+      "171.0",
+      "182.0",
+      "394.0"
+    ]
+  },
+  {
+    "departure_delay": "172.0",
+    "num_flights": "7123",
+    "arrival_delay_quantiles": [
+      "104.0",
+      "158.0",
+      "165.0",
+      "172.0",
+      "182.0",
+      "402.0"
+    ]
+  },
+  {
+    "departure_delay": "173.0",
+    "num_flights": "6986",
+    "arrival_delay_quantiles": [
+      "86.0",
+      "159.0",
+      "166.0",
+      "172.0",
+      "183.0",
+      "553.0"
+    ]
+  },
+  {
+    "departure_delay": "174.0",
+    "num_flights": "6817",
+    "arrival_delay_quantiles": [
+      "85.0",
+      "160.0",
+      "167.0",
+      "174.0",
+      "184.0",
+      "363.0"
+    ]
+  },
+  {
+    "departure_delay": "175.0",
+    "num_flights": "8501",
+    "arrival_delay_quantiles": [
+      "108.0",
+      "162.0",
+      "169.0",
+      "175.0",
+      "186.0",
+      "530.0"
+    ]
+  },
+  {
+    "departure_delay": "176.0",
+    "num_flights": "6511",
+    "arrival_delay_quantiles": [
+      "112.0",
+      "162.0",
+      "169.0",
+      "176.0",
+      "187.0",
+      "393.0"
+    ]
+  },
+  {
+    "departure_delay": "177.0",
+    "num_flights": "6505",
+    "arrival_delay_quantiles": [
+      "104.0",
+      "163.0",
+      "170.0",
+      "177.0",
+      "187.0",
+      "484.0"
+    ]
+  },
+  {
+    "departure_delay": "178.0",
+    "num_flights": "6637",
+    "arrival_delay_quantiles": [
+      "30.0",
+      "165.0",
+      "172.0",
+      "178.0",
+      "189.0",
+      "395.0"
+    ]
+  },
+  {
+    "departure_delay": "179.0",
+    "num_flights": "6265",
+    "arrival_delay_quantiles": [
+      "93.0",
+      "165.0",
+      "172.0",
+      "179.0",
+      "189.0",
+      "478.0"
+    ]
+  },
+  {
+    "departure_delay": "180.0",
+    "num_flights": "8166",
+    "arrival_delay_quantiles": [
+      "-6.0",
+      "167.0",
+      "174.0",
+      "180.0",
+      "191.0",
+      "450.0"
+    ]
+  },
+  {
+    "departure_delay": "181.0",
+    "num_flights": "6013",
+    "arrival_delay_quantiles": [
+      "100.0",
+      "167.0",
+      "174.0",
+      "181.0",
+      "192.0",
+      "530.0"
+    ]
+  },
+  {
+    "departure_delay": "182.0",
+    "num_flights": "5990",
+    "arrival_delay_quantiles": [
+      "105.0",
+      "168.0",
+      "175.0",
+      "182.0",
+      "192.0",
+      "1612.0"
+    ]
+  },
+  {
+    "departure_delay": "183.0",
+    "num_flights": "5834",
+    "arrival_delay_quantiles": [
+      "109.0",
+      "169.0",
+      "176.0",
+      "183.0",
+      "194.0",
+      "530.0"
+    ]
+  },
+  {
+    "departure_delay": "184.0",
+    "num_flights": "5630",
+    "arrival_delay_quantiles": [
+      "59.0",
+      "170.0",
+      "177.0",
+      "184.0",
+      "194.0",
+      "362.0"
+    ]
+  },
+  {
+    "departure_delay": "185.0",
+    "num_flights": "7128",
+    "arrival_delay_quantiles": [
+      "85.0",
+      "172.0",
+      "179.0",
+      "185.0",
+      "196.0",
+      "435.0"
+    ]
+  },
+  {
+    "departure_delay": "186.0",
+    "num_flights": "5454",
+    "arrival_delay_quantiles": [
+      "111.0",
+      "172.0",
+      "180.0",
+      "186.0",
+      "196.0",
+      "473.0"
+    ]
+  },
+  {
+    "departure_delay": "187.0",
+    "num_flights": "5458",
+    "arrival_delay_quantiles": [
+      "127.0",
+      "173.0",
+      "180.0",
+      "187.0",
+      "198.0",
+      "471.0"
+    ]
+  },
+  {
+    "departure_delay": "188.0",
+    "num_flights": "5456",
+    "arrival_delay_quantiles": [
+      "120.0",
+      "174.0",
+      "181.0",
+      "188.0",
+      "199.0",
+      "465.0"
+    ]
+  },
+  {
+    "departure_delay": "189.0",
+    "num_flights": "5169",
+    "arrival_delay_quantiles": [
+      "127.0",
+      "175.0",
+      "182.0",
+      "189.0",
+      "200.0",
+      "411.0"
+    ]
+  },
+  {
+    "departure_delay": "190.0",
+    "num_flights": "6567",
+    "arrival_delay_quantiles": [
+      "-2.0",
+      "177.0",
+      "184.0",
+      "190.0",
+      "200.0",
+      "424.0"
+    ]
+  },
+  {
+    "departure_delay": "191.0",
+    "num_flights": "4902",
+    "arrival_delay_quantiles": [
+      "135.0",
+      "177.0",
+      "184.0",
+      "191.0",
+      "202.0",
+      "481.0"
+    ]
+  },
+  {
+    "departure_delay": "192.0",
+    "num_flights": "5048",
+    "arrival_delay_quantiles": [
+      "-62.0",
+      "178.0",
+      "185.0",
+      "192.0",
+      "203.0",
+      "487.0"
+    ]
+  },
+  {
+    "departure_delay": "193.0",
+    "num_flights": "4979",
+    "arrival_delay_quantiles": [
+      "118.0",
+      "179.0",
+      "186.0",
+      "193.0",
+      "203.0",
+      "422.0"
+    ]
+  },
+  {
+    "departure_delay": "194.0",
+    "num_flights": "4906",
+    "arrival_delay_quantiles": [
+      "103.0",
+      "179.0",
+      "187.0",
+      "193.0",
+      "205.0",
+      "530.0"
+    ]
+  },
+  {
+    "departure_delay": "195.0",
+    "num_flights": "6148",
+    "arrival_delay_quantiles": [
+      "90.0",
+      "181.0",
+      "188.0",
+      "195.0",
+      "205.0",
+      "487.0"
+    ]
+  },
+  {
+    "departure_delay": "196.0",
+    "num_flights": "4440",
+    "arrival_delay_quantiles": [
+      "96.0",
+      "181.0",
+      "189.0",
+      "195.0",
+      "206.0",
+      "453.0"
+    ]
+  },
+  {
+    "departure_delay": "197.0",
+    "num_flights": "4453",
+    "arrival_delay_quantiles": [
+      "79.0",
+      "183.0",
+      "190.0",
+      "197.0",
+      "208.0",
+      "612.0"
+    ]
+  },
+  {
+    "departure_delay": "198.0",
+    "num_flights": "4538",
+    "arrival_delay_quantiles": [
+      "116.0",
+      "184.0",
+      "191.0",
+      "197.0",
+      "209.0",
+      "511.0"
+    ]
+  },
+  {
+    "departure_delay": "199.0",
+    "num_flights": "4519",
+    "arrival_delay_quantiles": [
+      "127.0",
+      "185.0",
+      "192.0",
+      "199.0",
+      "211.0",
+      "439.0"
+    ]
+  },
+  {
+    "departure_delay": "200.0",
+    "num_flights": "5540",
+    "arrival_delay_quantiles": [
+      "45.0",
+      "186.0",
+      "193.0",
+      "200.0",
+      "210.0",
+      "407.0"
+    ]
+  },
+  {
+    "departure_delay": "201.0",
+    "num_flights": "4190",
+    "arrival_delay_quantiles": [
+      "112.0",
+      "187.0",
+      "194.0",
+      "201.0",
+      "212.0",
+      "360.0"
+    ]
+  },
+  {
+    "departure_delay": "202.0",
+    "num_flights": "4244",
+    "arrival_delay_quantiles": [
+      "140.0",
+      "188.0",
+      "195.0",
+      "201.0",
+      "212.0",
+      "379.0"
+    ]
+  },
+  {
+    "departure_delay": "203.0",
+    "num_flights": "4140",
+    "arrival_delay_quantiles": [
+      "112.0",
+      "189.0",
+      "196.0",
+      "202.0",
+      "213.0",
+      "467.0"
+    ]
+  },
+  {
+    "departure_delay": "204.0",
+    "num_flights": "4025",
+    "arrival_delay_quantiles": [
+      "147.0",
+      "189.0",
+      "197.0",
+      "203.0",
+      "214.0",
+      "399.0"
+    ]
+  },
+  {
+    "departure_delay": "205.0",
+    "num_flights": "5063",
+    "arrival_delay_quantiles": [
+      "136.0",
+      "191.0",
+      "199.0",
+      "205.0",
+      "217.0",
+      "402.0"
+    ]
+  },
+  {
+    "departure_delay": "206.0",
+    "num_flights": "3770",
+    "arrival_delay_quantiles": [
+      "131.0",
+      "191.0",
+      "199.0",
+      "206.0",
+      "217.0",
+      "389.0"
+    ]
+  },
+  {
+    "departure_delay": "207.0",
+    "num_flights": "3830",
+    "arrival_delay_quantiles": [
+      "142.0",
+      "192.0",
+      "200.0",
+      "207.0",
+      "218.0",
+      "577.0"
+    ]
+  },
+  {
+    "departure_delay": "208.0",
+    "num_flights": "3696",
+    "arrival_delay_quantiles": [
+      "145.0",
+      "194.0",
+      "201.0",
+      "207.0",
+      "219.0",
+      "415.0"
+    ]
+  },
+  {
+    "departure_delay": "209.0",
+    "num_flights": "3663",
+    "arrival_delay_quantiles": [
+      "148.0",
+      "195.0",
+      "202.0",
+      "209.0",
+      "219.0",
+      "440.0"
+    ]
+  },
+  {
+    "departure_delay": "210.0",
+    "num_flights": "4748",
+    "arrival_delay_quantiles": [
+      "-6.0",
+      "196.0",
+      "203.0",
+      "210.0",
+      "221.0",
+      "426.0"
+    ]
+  },
+  {
+    "departure_delay": "211.0",
+    "num_flights": "3482",
+    "arrival_delay_quantiles": [
+      "154.0",
+      "196.0",
+      "204.0",
+      "211.0",
+      "221.0",
+      "408.0"
+    ]
+  },
+  {
+    "departure_delay": "212.0",
+    "num_flights": "3610",
+    "arrival_delay_quantiles": [
+      "59.0",
+      "198.0",
+      "205.0",
+      "212.0",
+      "223.0",
+      "475.0"
+    ]
+  },
+  {
+    "departure_delay": "213.0",
+    "num_flights": "3570",
+    "arrival_delay_quantiles": [
+      "32.0",
+      "198.0",
+      "206.0",
+      "213.0",
+      "224.0",
+      "424.0"
+    ]
+  },
+  {
+    "departure_delay": "214.0",
+    "num_flights": "3318",
+    "arrival_delay_quantiles": [
+      "141.0",
+      "200.0",
+      "207.0",
+      "214.0",
+      "225.0",
+      "411.0"
+    ]
+  },
+  {
+    "departure_delay": "215.0",
+    "num_flights": "4201",
+    "arrival_delay_quantiles": [
+      "142.0",
+      "201.0",
+      "208.0",
+      "215.0",
+      "226.0",
+      "474.0"
+    ]
+  },
+  {
+    "departure_delay": "216.0",
+    "num_flights": "3198",
+    "arrival_delay_quantiles": [
+      "152.0",
+      "201.0",
+      "209.0",
+      "215.0",
+      "227.0",
+      "449.0"
+    ]
+  },
+  {
+    "departure_delay": "217.0",
+    "num_flights": "3350",
+    "arrival_delay_quantiles": [
+      "158.0",
+      "202.0",
+      "210.0",
+      "216.0",
+      "227.0",
+      "406.0"
+    ]
+  },
+  {
+    "departure_delay": "218.0",
+    "num_flights": "3090",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "204.0",
+      "211.0",
+      "218.0",
+      "229.0",
+      "538.0"
+    ]
+  },
+  {
+    "departure_delay": "219.0",
+    "num_flights": "3080",
+    "arrival_delay_quantiles": [
+      "155.0",
+      "205.0",
+      "212.0",
+      "219.0",
+      "230.0",
+      "546.0"
+    ]
+  },
+  {
+    "departure_delay": "220.0",
+    "num_flights": "4047",
+    "arrival_delay_quantiles": [
+      "53.0",
+      "206.0",
+      "213.0",
+      "220.0",
+      "233.0",
+      "450.0"
+    ]
+  },
+  {
+    "departure_delay": "221.0",
+    "num_flights": "2949",
+    "arrival_delay_quantiles": [
+      "126.0",
+      "206.0",
+      "213.0",
+      "221.0",
+      "231.0",
+      "411.0"
+    ]
+  },
+  {
+    "departure_delay": "222.0",
+    "num_flights": "3027",
+    "arrival_delay_quantiles": [
+      "89.0",
+      "207.0",
+      "214.0",
+      "222.0",
+      "233.0",
+      "496.0"
+    ]
+  },
+  {
+    "departure_delay": "223.0",
+    "num_flights": "2940",
+    "arrival_delay_quantiles": [
+      "165.0",
+      "209.0",
+      "216.0",
+      "223.0",
+      "234.0",
+      "429.0"
+    ]
+  },
+  {
+    "departure_delay": "224.0",
+    "num_flights": "2951",
+    "arrival_delay_quantiles": [
+      "147.0",
+      "209.0",
+      "217.0",
+      "223.0",
+      "234.0",
+      "430.0"
+    ]
+  },
+  {
+    "departure_delay": "225.0",
+    "num_flights": "3644",
+    "arrival_delay_quantiles": [
+      "129.0",
+      "210.0",
+      "218.0",
+      "225.0",
+      "236.0",
+      "452.0"
+    ]
+  },
+  {
+    "departure_delay": "226.0",
+    "num_flights": "2704",
+    "arrival_delay_quantiles": [
+      "129.0",
+      "211.0",
+      "219.0",
+      "226.0",
+      "238.0",
+      "437.0"
+    ]
+  },
+  {
+    "departure_delay": "227.0",
+    "num_flights": "2885",
+    "arrival_delay_quantiles": [
+      "143.0",
+      "212.0",
+      "219.0",
+      "226.0",
+      "236.0",
+      "419.0"
+    ]
+  },
+  {
+    "departure_delay": "228.0",
+    "num_flights": "2760",
+    "arrival_delay_quantiles": [
+      "163.0",
+      "213.0",
+      "221.0",
+      "228.0",
+      "238.0",
+      "429.0"
+    ]
+  },
+  {
+    "departure_delay": "229.0",
+    "num_flights": "2665",
+    "arrival_delay_quantiles": [
+      "174.0",
+      "213.0",
+      "221.0",
+      "228.0",
+      "239.0",
+      "379.0"
+    ]
+  },
+  {
+    "departure_delay": "230.0",
+    "num_flights": "3325",
+    "arrival_delay_quantiles": [
+      "23.0",
+      "216.0",
+      "223.0",
+      "230.0",
+      "241.0",
+      "403.0"
+    ]
+  },
+  {
+    "departure_delay": "231.0",
+    "num_flights": "2468",
+    "arrival_delay_quantiles": [
+      "135.0",
+      "216.0",
+      "224.0",
+      "231.0",
+      "243.0",
+      "458.0"
+    ]
+  },
+  {
+    "departure_delay": "232.0",
+    "num_flights": "2475",
+    "arrival_delay_quantiles": [
+      "167.0",
+      "217.0",
+      "224.0",
+      "231.0",
+      "242.0",
+      "468.0"
+    ]
+  },
+  {
+    "departure_delay": "233.0",
+    "num_flights": "2499",
+    "arrival_delay_quantiles": [
+      "168.0",
+      "218.0",
+      "225.0",
+      "232.0",
+      "243.0",
+      "378.0"
+    ]
+  },
+  {
+    "departure_delay": "234.0",
+    "num_flights": "2565",
+    "arrival_delay_quantiles": [
+      "146.0",
+      "219.0",
+      "227.0",
+      "234.0",
+      "244.0",
+      "485.0"
+    ]
+  },
+  {
+    "departure_delay": "235.0",
+    "num_flights": "3064",
+    "arrival_delay_quantiles": [
+      "87.0",
+      "221.0",
+      "228.0",
+      "235.0",
+      "247.0",
+      "414.0"
+    ]
+  },
+  {
+    "departure_delay": "236.0",
+    "num_flights": "2290",
+    "arrival_delay_quantiles": [
+      "175.0",
+      "221.0",
+      "229.0",
+      "236.0",
+      "247.0",
+      "457.0"
+    ]
+  },
+  {
+    "departure_delay": "237.0",
+    "num_flights": "2301",
+    "arrival_delay_quantiles": [
+      "175.0",
+      "223.0",
+      "230.0",
+      "236.0",
+      "249.0",
+      "570.0"
+    ]
+  },
+  {
+    "departure_delay": "238.0",
+    "num_flights": "2429",
+    "arrival_delay_quantiles": [
+      "109.0",
+      "223.0",
+      "230.0",
+      "238.0",
+      "249.0",
+      "435.0"
+    ]
+  },
+  {
+    "departure_delay": "239.0",
+    "num_flights": "2196",
+    "arrival_delay_quantiles": [
+      "122.0",
+      "225.0",
+      "232.0",
+      "239.0",
+      "249.0",
+      "420.0"
+    ]
+  },
+  {
+    "departure_delay": "240.0",
+    "num_flights": "3041",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "225.0",
+      "233.0",
+      "239.0",
+      "250.0",
+      "445.0"
+    ]
+  },
+  {
+    "departure_delay": "241.0",
+    "num_flights": "2120",
+    "arrival_delay_quantiles": [
+      "82.0",
+      "226.0",
+      "233.0",
+      "241.0",
+      "252.0",
+      "452.0"
+    ]
+  },
+  {
+    "departure_delay": "242.0",
+    "num_flights": "2152",
+    "arrival_delay_quantiles": [
+      "186.0",
+      "227.0",
+      "234.0",
+      "241.0",
+      "253.0",
+      "509.0"
+    ]
+  },
+  {
+    "departure_delay": "243.0",
+    "num_flights": "2119",
+    "arrival_delay_quantiles": [
+      "101.0",
+      "228.0",
+      "236.0",
+      "243.0",
+      "254.0",
+      "559.0"
+    ]
+  },
+  {
+    "departure_delay": "244.0",
+    "num_flights": "2057",
+    "arrival_delay_quantiles": [
+      "170.0",
+      "229.0",
+      "236.0",
+      "243.0",
+      "254.0",
+      "594.0"
+    ]
+  },
+  {
+    "departure_delay": "245.0",
+    "num_flights": "2571",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "230.0",
+      "238.0",
+      "245.0",
+      "256.0",
+      "407.0"
+    ]
+  },
+  {
+    "departure_delay": "246.0",
+    "num_flights": "1970",
+    "arrival_delay_quantiles": [
+      "191.0",
+      "231.0",
+      "238.0",
+      "245.0",
+      "256.0",
+      "486.0"
+    ]
+  },
+  {
+    "departure_delay": "247.0",
+    "num_flights": "2003",
+    "arrival_delay_quantiles": [
+      "191.0",
+      "232.0",
+      "239.0",
+      "247.0",
+      "259.0",
+      "434.0"
+    ]
+  },
+  {
+    "departure_delay": "248.0",
+    "num_flights": "1953",
+    "arrival_delay_quantiles": [
+      "169.0",
+      "233.0",
+      "241.0",
+      "248.0",
+      "260.0",
+      "409.0"
+    ]
+  },
+  {
+    "departure_delay": "249.0",
+    "num_flights": "1904",
+    "arrival_delay_quantiles": [
+      "189.0",
+      "235.0",
+      "242.0",
+      "249.0",
+      "261.0",
+      "465.0"
+    ]
+  },
+  {
+    "departure_delay": "250.0",
+    "num_flights": "2373",
+    "arrival_delay_quantiles": [
+      "115.0",
+      "235.0",
+      "243.0",
+      "250.0",
+      "262.0",
+      "453.0"
+    ]
+  },
+  {
+    "departure_delay": "251.0",
+    "num_flights": "1886",
+    "arrival_delay_quantiles": [
+      "196.0",
+      "236.0",
+      "244.0",
+      "251.0",
+      "262.0",
+      "543.0"
+    ]
+  },
+  {
+    "departure_delay": "252.0",
+    "num_flights": "1789",
+    "arrival_delay_quantiles": [
+      "93.0",
+      "236.0",
+      "244.0",
+      "251.0",
+      "262.0",
+      "448.0"
+    ]
+  },
+  {
+    "departure_delay": "253.0",
+    "num_flights": "1777",
+    "arrival_delay_quantiles": [
+      "192.0",
+      "237.0",
+      "245.0",
+      "252.0",
+      "264.0",
+      "394.0"
+    ]
+  },
+  {
+    "departure_delay": "254.0",
+    "num_flights": "1732",
+    "arrival_delay_quantiles": [
+      "140.0",
+      "239.0",
+      "246.0",
+      "253.0",
+      "264.0",
+      "482.0"
+    ]
+  },
+  {
+    "departure_delay": "255.0",
+    "num_flights": "2233",
+    "arrival_delay_quantiles": [
+      "41.0",
+      "240.0",
+      "248.0",
+      "255.0",
+      "266.0",
+      "481.0"
+    ]
+  },
+  {
+    "departure_delay": "256.0",
+    "num_flights": "1672",
+    "arrival_delay_quantiles": [
+      "197.0",
+      "241.0",
+      "248.0",
+      "255.0",
+      "266.0",
+      "439.0"
+    ]
+  },
+  {
+    "departure_delay": "257.0",
+    "num_flights": "1719",
+    "arrival_delay_quantiles": [
+      "195.0",
+      "241.0",
+      "248.0",
+      "256.0",
+      "267.0",
+      "516.0"
+    ]
+  },
+  {
+    "departure_delay": "258.0",
+    "num_flights": "1678",
+    "arrival_delay_quantiles": [
+      "197.0",
+      "243.0",
+      "250.0",
+      "257.0",
+      "269.0",
+      "520.0"
+    ]
+  },
+  {
+    "departure_delay": "259.0",
+    "num_flights": "1603",
+    "arrival_delay_quantiles": [
+      "135.0",
+      "243.0",
+      "252.0",
+      "258.0",
+      "270.0",
+      "413.0"
+    ]
+  },
+  {
+    "departure_delay": "260.0",
+    "num_flights": "2011",
+    "arrival_delay_quantiles": [
+      "196.0",
+      "245.0",
+      "253.0",
+      "260.0",
+      "270.0",
+      "440.0"
+    ]
+  },
+  {
+    "departure_delay": "261.0",
+    "num_flights": "1576",
+    "arrival_delay_quantiles": [
+      "129.0",
+      "246.0",
+      "253.0",
+      "260.0",
+      "272.0",
+      "393.0"
+    ]
+  },
+  {
+    "departure_delay": "262.0",
+    "num_flights": "1564",
+    "arrival_delay_quantiles": [
+      "102.0",
+      "246.0",
+      "254.0",
+      "261.0",
+      "272.0",
+      "432.0"
+    ]
+  },
+  {
+    "departure_delay": "263.0",
+    "num_flights": "1530",
+    "arrival_delay_quantiles": [
+      "165.0",
+      "248.0",
+      "255.0",
+      "262.0",
+      "274.0",
+      "466.0"
+    ]
+  },
+  {
+    "departure_delay": "264.0",
+    "num_flights": "1472",
+    "arrival_delay_quantiles": [
+      "213.0",
+      "248.0",
+      "256.0",
+      "263.0",
+      "274.0",
+      "440.0"
+    ]
+  },
+  {
+    "departure_delay": "265.0",
+    "num_flights": "1888",
+    "arrival_delay_quantiles": [
+      "139.0",
+      "250.0",
+      "259.0",
+      "265.0",
+      "276.0",
+      "427.0"
+    ]
+  },
+  {
+    "departure_delay": "266.0",
+    "num_flights": "1497",
+    "arrival_delay_quantiles": [
+      "193.0",
+      "252.0",
+      "259.0",
+      "266.0",
+      "277.0",
+      "540.0"
+    ]
+  },
+  {
+    "departure_delay": "267.0",
+    "num_flights": "1500",
+    "arrival_delay_quantiles": [
+      "205.0",
+      "252.0",
+      "260.0",
+      "266.0",
+      "278.0",
+      "459.0"
+    ]
+  },
+  {
+    "departure_delay": "268.0",
+    "num_flights": "1399",
+    "arrival_delay_quantiles": [
+      "138.0",
+      "252.0",
+      "259.0",
+      "267.0",
+      "279.0",
+      "566.0"
+    ]
+  },
+  {
+    "departure_delay": "269.0",
+    "num_flights": "1408",
+    "arrival_delay_quantiles": [
+      "216.0",
+      "253.0",
+      "261.0",
+      "268.0",
+      "281.0",
+      "485.0"
+    ]
+  },
+  {
+    "departure_delay": "270.0",
+    "num_flights": "1763",
+    "arrival_delay_quantiles": [
+      "109.0",
+      "256.0",
+      "263.0",
+      "270.0",
+      "281.0",
+      "442.0"
+    ]
+  },
+  {
+    "departure_delay": "271.0",
+    "num_flights": "1297",
+    "arrival_delay_quantiles": [
+      "213.0",
+      "256.0",
+      "264.0",
+      "271.0",
+      "282.0",
+      "385.0"
+    ]
+  },
+  {
+    "departure_delay": "272.0",
+    "num_flights": "1332",
+    "arrival_delay_quantiles": [
+      "122.0",
+      "258.0",
+      "265.0",
+      "272.0",
+      "284.0",
+      "487.0"
+    ]
+  },
+  {
+    "departure_delay": "273.0",
+    "num_flights": "1287",
+    "arrival_delay_quantiles": [
+      "166.0",
+      "258.0",
+      "265.0",
+      "272.0",
+      "284.0",
+      "438.0"
+    ]
+  },
+  {
+    "departure_delay": "274.0",
+    "num_flights": "1316",
+    "arrival_delay_quantiles": [
+      "49.0",
+      "259.0",
+      "266.0",
+      "273.0",
+      "284.0",
+      "1199.0"
+    ]
+  },
+  {
+    "departure_delay": "275.0",
+    "num_flights": "1577",
+    "arrival_delay_quantiles": [
+      "166.0",
+      "260.0",
+      "268.0",
+      "275.0",
+      "285.0",
+      "403.0"
+    ]
+  },
+  {
+    "departure_delay": "276.0",
+    "num_flights": "1200",
+    "arrival_delay_quantiles": [
+      "-853.0",
+      "260.0",
+      "269.0",
+      "276.0",
+      "288.0",
+      "465.0"
+    ]
+  },
+  {
+    "departure_delay": "277.0",
+    "num_flights": "1196",
+    "arrival_delay_quantiles": [
+      "218.0",
+      "261.0",
+      "269.0",
+      "276.0",
+      "286.0",
+      "440.0"
+    ]
+  },
+  {
+    "departure_delay": "278.0",
+    "num_flights": "1192",
+    "arrival_delay_quantiles": [
+      "204.0",
+      "262.0",
+      "270.0",
+      "277.0",
+      "287.0",
+      "446.0"
+    ]
+  },
+  {
+    "departure_delay": "279.0",
+    "num_flights": "1192",
+    "arrival_delay_quantiles": [
+      "216.0",
+      "264.0",
+      "271.0",
+      "278.0",
+      "288.0",
+      "459.0"
+    ]
+  },
+  {
+    "departure_delay": "280.0",
+    "num_flights": "1464",
+    "arrival_delay_quantiles": [
+      "-793.0",
+      "265.0",
+      "273.0",
+      "280.0",
+      "291.0",
+      "567.0"
+    ]
+  },
+  {
+    "departure_delay": "281.0",
+    "num_flights": "1184",
+    "arrival_delay_quantiles": [
+      "189.0",
+      "266.0",
+      "273.0",
+      "280.0",
+      "292.0",
+      "452.0"
+    ]
+  },
+  {
+    "departure_delay": "282.0",
+    "num_flights": "1181",
+    "arrival_delay_quantiles": [
+      "135.0",
+      "267.0",
+      "274.0",
+      "281.0",
+      "293.0",
+      "595.0"
+    ]
+  },
+  {
+    "departure_delay": "283.0",
+    "num_flights": "1105",
+    "arrival_delay_quantiles": [
+      "171.0",
+      "268.0",
+      "276.0",
+      "283.0",
+      "296.0",
+      "432.0"
+    ]
+  },
+  {
+    "departure_delay": "284.0",
+    "num_flights": "1058",
+    "arrival_delay_quantiles": [
+      "160.0",
+      "268.0",
+      "276.0",
+      "283.0",
+      "293.0",
+      "423.0"
+    ]
+  },
+  {
+    "departure_delay": "285.0",
+    "num_flights": "1495",
+    "arrival_delay_quantiles": [
+      "172.0",
+      "270.0",
+      "278.0",
+      "285.0",
+      "297.0",
+      "465.0"
+    ]
+  },
+  {
+    "departure_delay": "286.0",
+    "num_flights": "1084",
+    "arrival_delay_quantiles": [
+      "223.0",
+      "271.0",
+      "279.0",
+      "286.0",
+      "297.0",
+      "494.0"
+    ]
+  },
+  {
+    "departure_delay": "287.0",
+    "num_flights": "993",
+    "arrival_delay_quantiles": [
+      "242.0",
+      "272.0",
+      "279.0",
+      "286.0",
+      "297.0",
+      "534.0"
+    ]
+  },
+  {
+    "departure_delay": "288.0",
+    "num_flights": "1076",
+    "arrival_delay_quantiles": [
+      "149.0",
+      "273.0",
+      "280.0",
+      "287.0",
+      "298.0",
+      "472.0"
+    ]
+  },
+  {
+    "departure_delay": "289.0",
+    "num_flights": "975",
+    "arrival_delay_quantiles": [
+      "233.0",
+      "273.0",
+      "281.0",
+      "287.0",
+      "299.0",
+      "428.0"
+    ]
+  },
+  {
+    "departure_delay": "290.0",
+    "num_flights": "1215",
+    "arrival_delay_quantiles": [
+      "152.0",
+      "275.0",
+      "282.0",
+      "289.0",
+      "301.0",
+      "1300.0"
+    ]
+  },
+  {
+    "departure_delay": "291.0",
+    "num_flights": "963",
+    "arrival_delay_quantiles": [
+      "240.0",
+      "275.0",
+      "283.0",
+      "291.0",
+      "302.0",
+      "1050.0"
+    ]
+  },
+  {
+    "departure_delay": "292.0",
+    "num_flights": "951",
+    "arrival_delay_quantiles": [
+      "233.0",
+      "277.0",
+      "284.0",
+      "290.0",
+      "302.0",
+      "436.0"
+    ]
+  },
+  {
+    "departure_delay": "293.0",
+    "num_flights": "1009",
+    "arrival_delay_quantiles": [
+      "229.0",
+      "277.0",
+      "285.0",
+      "292.0",
+      "305.0",
+      "468.0"
+    ]
+  },
+  {
+    "departure_delay": "294.0",
+    "num_flights": "963",
+    "arrival_delay_quantiles": [
+      "187.0",
+      "279.0",
+      "286.0",
+      "294.0",
+      "303.0",
+      "493.0"
+    ]
+  },
+  {
+    "departure_delay": "295.0",
+    "num_flights": "1168",
+    "arrival_delay_quantiles": [
+      "176.0",
+      "280.0",
+      "287.0",
+      "294.0",
+      "306.0",
+      "478.0"
+    ]
+  },
+  {
+    "departure_delay": "296.0",
+    "num_flights": "928",
+    "arrival_delay_quantiles": [
+      "195.0",
+      "280.0",
+      "288.0",
+      "294.0",
+      "306.0",
+      "478.0"
+    ]
+  },
+  {
+    "departure_delay": "297.0",
+    "num_flights": "916",
+    "arrival_delay_quantiles": [
+      "167.0",
+      "282.0",
+      "289.0",
+      "296.0",
+      "305.0",
+      "462.0"
+    ]
+  },
+  {
+    "departure_delay": "298.0",
+    "num_flights": "869",
+    "arrival_delay_quantiles": [
+      "245.0",
+      "283.0",
+      "290.0",
+      "298.0",
+      "310.0",
+      "483.0"
+    ]
+  },
+  {
+    "departure_delay": "299.0",
+    "num_flights": "822",
+    "arrival_delay_quantiles": [
+      "251.0",
+      "283.0",
+      "291.0",
+      "298.0",
+      "310.0",
+      "475.0"
+    ]
+  },
+  {
+    "departure_delay": "300.0",
+    "num_flights": "1229",
+    "arrival_delay_quantiles": [
+      "235.0",
+      "285.0",
+      "294.0",
+      "301.0",
+      "312.0",
+      "467.0"
+    ]
+  },
+  {
+    "departure_delay": "301.0",
+    "num_flights": "844",
+    "arrival_delay_quantiles": [
+      "200.0",
+      "285.0",
+      "293.0",
+      "301.0",
+      "313.0",
+      "439.0"
+    ]
+  },
+  {
+    "departure_delay": "302.0",
+    "num_flights": "803",
+    "arrival_delay_quantiles": [
+      "137.0",
+      "287.0",
+      "294.0",
+      "301.0",
+      "312.0",
+      "469.0"
+    ]
+  },
+  {
+    "departure_delay": "303.0",
+    "num_flights": "847",
+    "arrival_delay_quantiles": [
+      "188.0",
+      "287.0",
+      "295.0",
+      "303.0",
+      "313.0",
+      "456.0"
+    ]
+  },
+  {
+    "departure_delay": "304.0",
+    "num_flights": "847",
+    "arrival_delay_quantiles": [
+      "245.0",
+      "288.0",
+      "297.0",
+      "305.0",
+      "316.0",
+      "512.0"
+    ]
+  },
+  {
+    "departure_delay": "305.0",
+    "num_flights": "1019",
+    "arrival_delay_quantiles": [
+      "231.0",
+      "289.0",
+      "296.0",
+      "304.0",
+      "316.0",
+      "448.0"
+    ]
+  },
+  {
+    "departure_delay": "306.0",
+    "num_flights": "795",
+    "arrival_delay_quantiles": [
+      "249.0",
+      "290.0",
+      "298.0",
+      "304.0",
+      "315.0",
+      "493.0"
+    ]
+  },
+  {
+    "departure_delay": "307.0",
+    "num_flights": "786",
+    "arrival_delay_quantiles": [
+      "246.0",
+      "291.0",
+      "300.0",
+      "307.0",
+      "318.0",
+      "454.0"
+    ]
+  },
+  {
+    "departure_delay": "308.0",
+    "num_flights": "799",
+    "arrival_delay_quantiles": [
+      "147.0",
+      "293.0",
+      "299.0",
+      "307.0",
+      "320.0",
+      "485.0"
+    ]
+  },
+  {
+    "departure_delay": "309.0",
+    "num_flights": "792",
+    "arrival_delay_quantiles": [
+      "251.0",
+      "294.0",
+      "301.0",
+      "308.0",
+      "319.0",
+      "503.0"
+    ]
+  },
+  {
+    "departure_delay": "310.0",
+    "num_flights": "982",
+    "arrival_delay_quantiles": [
+      "233.0",
+      "295.0",
+      "302.0",
+      "310.0",
+      "322.0",
+      "439.0"
+    ]
+  },
+  {
+    "departure_delay": "311.0",
+    "num_flights": "748",
+    "arrival_delay_quantiles": [
+      "259.0",
+      "295.0",
+      "302.0",
+      "310.0",
+      "321.0",
+      "508.0"
+    ]
+  },
+  {
+    "departure_delay": "312.0",
+    "num_flights": "699",
+    "arrival_delay_quantiles": [
+      "165.0",
+      "296.0",
+      "305.0",
+      "311.0",
+      "323.0",
+      "533.0"
+    ]
+  },
+  {
+    "departure_delay": "313.0",
+    "num_flights": "693",
+    "arrival_delay_quantiles": [
+      "201.0",
+      "298.0",
+      "307.0",
+      "315.0",
+      "327.0",
+      "465.0"
+    ]
+  },
+  {
+    "departure_delay": "314.0",
+    "num_flights": "674",
+    "arrival_delay_quantiles": [
+      "256.0",
+      "298.0",
+      "305.0",
+      "312.0",
+      "323.0",
+      "461.0"
+    ]
+  },
+  {
+    "departure_delay": "315.0",
+    "num_flights": "927",
+    "arrival_delay_quantiles": [
+      "162.0",
+      "300.0",
+      "307.0",
+      "315.0",
+      "326.0",
+      "503.0"
+    ]
+  },
+  {
+    "departure_delay": "316.0",
+    "num_flights": "656",
+    "arrival_delay_quantiles": [
+      "0.0",
+      "301.0",
+      "309.0",
+      "316.0",
+      "327.0",
+      "460.0"
+    ]
+  },
+  {
+    "departure_delay": "317.0",
+    "num_flights": "671",
+    "arrival_delay_quantiles": [
+      "199.0",
+      "301.0",
+      "310.0",
+      "317.0",
+      "327.0",
+      "488.0"
+    ]
+  },
+  {
+    "departure_delay": "318.0",
+    "num_flights": "659",
+    "arrival_delay_quantiles": [
+      "243.0",
+      "302.0",
+      "310.0",
+      "316.0",
+      "327.0",
+      "442.0"
+    ]
+  },
+  {
+    "departure_delay": "319.0",
+    "num_flights": "660",
+    "arrival_delay_quantiles": [
+      "262.0",
+      "303.0",
+      "311.0",
+      "318.0",
+      "328.0",
+      "469.0"
+    ]
+  },
+  {
+    "departure_delay": "320.0",
+    "num_flights": "847",
+    "arrival_delay_quantiles": [
+      "-926.0",
+      "305.0",
+      "312.0",
+      "320.0",
+      "333.0",
+      "508.0"
+    ]
+  },
+  {
+    "departure_delay": "321.0",
+    "num_flights": "633",
+    "arrival_delay_quantiles": [
+      "266.0",
+      "305.0",
+      "314.0",
+      "320.0",
+      "333.0",
+      "473.0"
+    ]
+  },
+  {
+    "departure_delay": "322.0",
+    "num_flights": "677",
+    "arrival_delay_quantiles": [
+      "265.0",
+      "306.0",
+      "314.0",
+      "321.0",
+      "331.0",
+      "436.0"
+    ]
+  },
+  {
+    "departure_delay": "323.0",
+    "num_flights": "639",
+    "arrival_delay_quantiles": [
+      "261.0",
+      "306.0",
+      "314.0",
+      "323.0",
+      "332.0",
+      "477.0"
+    ]
+  },
+  {
+    "departure_delay": "324.0",
+    "num_flights": "621",
+    "arrival_delay_quantiles": [
+      "263.0",
+      "307.0",
+      "315.0",
+      "323.0",
+      "335.0",
+      "475.0"
+    ]
+  },
+  {
+    "departure_delay": "325.0",
+    "num_flights": "734",
+    "arrival_delay_quantiles": [
+      "272.0",
+      "310.0",
+      "317.0",
+      "325.0",
+      "337.0",
+      "465.0"
+    ]
+  },
+  {
+    "departure_delay": "326.0",
+    "num_flights": "558",
+    "arrival_delay_quantiles": [
+      "278.0",
+      "311.0",
+      "320.0",
+      "326.0",
+      "339.0",
+      "511.0"
+    ]
+  },
+  {
+    "departure_delay": "327.0",
+    "num_flights": "599",
+    "arrival_delay_quantiles": [
+      "-80.0",
+      "311.0",
+      "319.0",
+      "325.0",
+      "338.0",
+      "656.0"
+    ]
+  },
+  {
+    "departure_delay": "328.0",
+    "num_flights": "580",
+    "arrival_delay_quantiles": [
+      "248.0",
+      "312.0",
+      "321.0",
+      "327.0",
+      "339.0",
+      "478.0"
+    ]
+  },
+  {
+    "departure_delay": "329.0",
+    "num_flights": "531",
+    "arrival_delay_quantiles": [
+      "275.0",
+      "313.0",
+      "320.0",
+      "327.0",
+      "337.0",
+      "501.0"
+    ]
+  },
+  {
+    "departure_delay": "330.0",
+    "num_flights": "730",
+    "arrival_delay_quantiles": [
+      "130.0",
+      "315.0",
+      "322.0",
+      "329.0",
+      "339.0",
+      "473.0"
+    ]
+  },
+  {
+    "departure_delay": "331.0",
+    "num_flights": "541",
+    "arrival_delay_quantiles": [
+      "268.0",
+      "314.0",
+      "323.0",
+      "331.0",
+      "341.0",
+      "522.0"
+    ]
+  },
+  {
+    "departure_delay": "332.0",
+    "num_flights": "563",
+    "arrival_delay_quantiles": [
+      "268.0",
+      "314.0",
+      "323.0",
+      "330.0",
+      "342.0",
+      "563.0"
+    ]
+  },
+  {
+    "departure_delay": "333.0",
+    "num_flights": "554",
+    "arrival_delay_quantiles": [
+      "274.0",
+      "316.0",
+      "324.0",
+      "331.0",
+      "343.0",
+      "458.0"
+    ]
+  },
+  {
+    "departure_delay": "334.0",
+    "num_flights": "530",
+    "arrival_delay_quantiles": [
+      "289.0",
+      "319.0",
+      "326.0",
+      "333.0",
+      "343.0",
+      "460.0"
+    ]
+  },
+  {
+    "departure_delay": "335.0",
+    "num_flights": "675",
+    "arrival_delay_quantiles": [
+      "269.0",
+      "320.0",
+      "327.0",
+      "335.0",
+      "346.0",
+      "475.0"
+    ]
+  },
+  {
+    "departure_delay": "336.0",
+    "num_flights": "510",
+    "arrival_delay_quantiles": [
+      "130.0",
+      "318.0",
+      "327.0",
+      "334.0",
+      "346.0",
+      "485.0"
+    ]
+  },
+  {
+    "departure_delay": "337.0",
+    "num_flights": "487",
+    "arrival_delay_quantiles": [
+      "291.0",
+      "322.0",
+      "330.0",
+      "336.0",
+      "347.0",
+      "450.0"
+    ]
+  },
+  {
+    "departure_delay": "338.0",
+    "num_flights": "524",
+    "arrival_delay_quantiles": [
+      "243.0",
+      "321.0",
+      "330.0",
+      "336.0",
+      "348.0",
+      "460.0"
+    ]
+  },
+  {
+    "departure_delay": "339.0",
+    "num_flights": "497",
+    "arrival_delay_quantiles": [
+      "287.0",
+      "322.0",
+      "330.0",
+      "338.0",
+      "350.0",
+      "459.0"
+    ]
+  },
+  {
+    "departure_delay": "340.0",
+    "num_flights": "634",
+    "arrival_delay_quantiles": [
+      "280.0",
+      "323.0",
+      "332.0",
+      "340.0",
+      "352.0",
+      "474.0"
+    ]
+  },
+  {
+    "departure_delay": "341.0",
+    "num_flights": "460",
+    "arrival_delay_quantiles": [
+      "284.0",
+      "326.0",
+      "333.0",
+      "339.0",
+      "348.0",
+      "441.0"
+    ]
+  },
+  {
+    "departure_delay": "342.0",
+    "num_flights": "502",
+    "arrival_delay_quantiles": [
+      "244.0",
+      "327.0",
+      "334.0",
+      "341.0",
+      "353.0",
+      "585.0"
+    ]
+  },
+  {
+    "departure_delay": "343.0",
+    "num_flights": "504",
+    "arrival_delay_quantiles": [
+      "254.0",
+      "326.0",
+      "335.0",
+      "341.0",
+      "352.0",
+      "473.0"
+    ]
+  },
+  {
+    "departure_delay": "344.0",
+    "num_flights": "475",
+    "arrival_delay_quantiles": [
+      "296.0",
+      "327.0",
+      "335.0",
+      "343.0",
+      "353.0",
+      "612.0"
+    ]
+  },
+  {
+    "departure_delay": "345.0",
+    "num_flights": "605",
+    "arrival_delay_quantiles": [
+      "244.0",
+      "329.0",
+      "337.0",
+      "344.0",
+      "354.0",
+      "481.0"
+    ]
+  },
+  {
+    "departure_delay": "346.0",
+    "num_flights": "443",
+    "arrival_delay_quantiles": [
+      "272.0",
+      "330.0",
+      "337.0",
+      "344.0",
+      "356.0",
+      "444.0"
+    ]
+  },
+  {
+    "departure_delay": "347.0",
+    "num_flights": "448",
+    "arrival_delay_quantiles": [
+      "297.0",
+      "329.0",
+      "338.0",
+      "345.0",
+      "355.0",
+      "494.0"
+    ]
+  },
+  {
+    "departure_delay": "348.0",
+    "num_flights": "455",
+    "arrival_delay_quantiles": [
+      "113.0",
+      "332.0",
+      "340.0",
+      "347.0",
+      "359.0",
+      "477.0"
+    ]
+  },
+  {
+    "departure_delay": "349.0",
+    "num_flights": "455",
+    "arrival_delay_quantiles": [
+      "297.0",
+      "332.0",
+      "341.0",
+      "346.0",
+      "357.0",
+      "464.0"
+    ]
+  },
+  {
+    "departure_delay": "350.0",
+    "num_flights": "554",
+    "arrival_delay_quantiles": [
+      "274.0",
+      "332.0",
+      "341.0",
+      "348.0",
+      "360.0",
+      "525.0"
+    ]
+  },
+  {
+    "departure_delay": "351.0",
+    "num_flights": "397",
+    "arrival_delay_quantiles": [
+      "290.0",
+      "334.0",
+      "343.0",
+      "351.0",
+      "363.0",
+      "497.0"
+    ]
+  },
+  {
+    "departure_delay": "352.0",
+    "num_flights": "433",
+    "arrival_delay_quantiles": [
+      "202.0",
+      "337.0",
+      "345.0",
+      "352.0",
+      "363.0",
+      "523.0"
+    ]
+  },
+  {
+    "departure_delay": "353.0",
+    "num_flights": "413",
+    "arrival_delay_quantiles": [
+      "285.0",
+      "337.0",
+      "345.0",
+      "351.0",
+      "363.0",
+      "500.0"
+    ]
+  },
+  {
+    "departure_delay": "354.0",
+    "num_flights": "394",
+    "arrival_delay_quantiles": [
+      "297.0",
+      "337.0",
+      "346.0",
+      "353.0",
+      "365.0",
+      "480.0"
+    ]
+  },
+  {
+    "departure_delay": "355.0",
+    "num_flights": "459",
+    "arrival_delay_quantiles": [
+      "245.0",
+      "338.0",
+      "346.0",
+      "353.0",
+      "362.0",
+      "517.0"
+    ]
+  },
+  {
+    "departure_delay": "356.0",
+    "num_flights": "368",
+    "arrival_delay_quantiles": [
+      "297.0",
+      "340.0",
+      "348.0",
+      "355.0",
+      "367.0",
+      "473.0"
+    ]
+  },
+  {
+    "departure_delay": "357.0",
+    "num_flights": "361",
+    "arrival_delay_quantiles": [
+      "304.0",
+      "340.0",
+      "349.0",
+      "357.0",
+      "366.0",
+      "548.0"
+    ]
+  },
+  {
+    "departure_delay": "358.0",
+    "num_flights": "388",
+    "arrival_delay_quantiles": [
+      "306.0",
+      "340.0",
+      "347.0",
+      "355.0",
+      "368.0",
+      "505.0"
+    ]
+  },
+  {
+    "departure_delay": "359.0",
+    "num_flights": "383",
+    "arrival_delay_quantiles": [
+      "308.0",
+      "342.0",
+      "350.0",
+      "358.0",
+      "373.0",
+      "539.0"
+    ]
+  },
+  {
+    "departure_delay": "360.0",
+    "num_flights": "500",
+    "arrival_delay_quantiles": [
+      "307.0",
+      "347.0",
+      "353.0",
+      "359.0",
+      "370.0",
+      "533.0"
+    ]
+  },
+  {
+    "departure_delay": "361.0",
+    "num_flights": "358",
+    "arrival_delay_quantiles": [
+      "297.0",
+      "342.0",
+      "352.0",
+      "359.0",
+      "374.0",
+      "467.0"
+    ]
+  },
+  {
+    "departure_delay": "362.0",
+    "num_flights": "320",
+    "arrival_delay_quantiles": [
+      "314.0",
+      "344.0",
+      "353.0",
+      "360.0",
+      "373.0",
+      "464.0"
+    ]
+  },
+  {
+    "departure_delay": "363.0",
+    "num_flights": "363",
+    "arrival_delay_quantiles": [
+      "305.0",
+      "345.0",
+      "354.0",
+      "362.0",
+      "373.0",
+      "487.0"
+    ]
+  },
+  {
+    "departure_delay": "364.0",
+    "num_flights": "346",
+    "arrival_delay_quantiles": [
+      "324.0",
+      "349.0",
+      "357.0",
+      "364.0",
+      "375.0",
+      "480.0"
+    ]
+  },
+  {
+    "departure_delay": "365.0",
+    "num_flights": "447",
+    "arrival_delay_quantiles": [
+      "309.0",
+      "350.0",
+      "356.0",
+      "364.0",
+      "377.0",
+      "527.0"
+    ]
+  },
+  {
+    "departure_delay": "366.0",
+    "num_flights": "321",
+    "arrival_delay_quantiles": [
+      "221.0",
+      "351.0",
+      "359.0",
+      "366.0",
+      "377.0",
+      "552.0"
+    ]
+  },
+  {
+    "departure_delay": "367.0",
+    "num_flights": "322",
+    "arrival_delay_quantiles": [
+      "192.0",
+      "349.0",
+      "358.0",
+      "367.0",
+      "379.0",
+      "471.0"
+    ]
+  },
+  {
+    "departure_delay": "368.0",
+    "num_flights": "323",
+    "arrival_delay_quantiles": [
+      "159.0",
+      "350.0",
+      "360.0",
+      "367.0",
+      "379.0",
+      "531.0"
+    ]
+  },
+  {
+    "departure_delay": "369.0",
+    "num_flights": "327",
+    "arrival_delay_quantiles": [
+      "316.0",
+      "353.0",
+      "361.0",
+      "368.0",
+      "379.0",
+      "553.0"
+    ]
+  },
+  {
+    "departure_delay": "370.0",
+    "num_flights": "428",
+    "arrival_delay_quantiles": [
+      "300.0",
+      "354.0",
+      "363.0",
+      "370.0",
+      "381.0",
+      "574.0"
+    ]
+  },
+  {
+    "departure_delay": "371.0",
+    "num_flights": "316",
+    "arrival_delay_quantiles": [
+      "318.0",
+      "354.0",
+      "363.0",
+      "369.0",
+      "378.0",
+      "471.0"
+    ]
+  },
+  {
+    "departure_delay": "372.0",
+    "num_flights": "315",
+    "arrival_delay_quantiles": [
+      "319.0",
+      "354.0",
+      "363.0",
+      "370.0",
+      "379.0",
+      "498.0"
+    ]
+  },
+  {
+    "departure_delay": "373.0",
+    "num_flights": "360",
+    "arrival_delay_quantiles": [
+      "318.0",
+      "358.0",
+      "365.0",
+      "373.0",
+      "383.0",
+      "553.0"
+    ]
+  },
+  {
+    "departure_delay": "374.0",
+    "num_flights": "325",
+    "arrival_delay_quantiles": [
+      "323.0",
+      "359.0",
+      "367.0",
+      "373.0",
+      "382.0",
+      "454.0"
+    ]
+  },
+  {
+    "departure_delay": "375.0",
+    "num_flights": "365",
+    "arrival_delay_quantiles": [
+      "287.0",
+      "358.0",
+      "366.0",
+      "372.0",
+      "382.0",
+      "466.0"
+    ]
+  },
+  {
+    "departure_delay": "376.0",
+    "num_flights": "302",
+    "arrival_delay_quantiles": [
+      "327.0",
+      "360.0",
+      "370.0",
+      "377.0",
+      "388.0",
+      "519.0"
+    ]
+  },
+  {
+    "departure_delay": "377.0",
+    "num_flights": "286",
+    "arrival_delay_quantiles": [
+      "269.0",
+      "361.0",
+      "369.0",
+      "377.0",
+      "388.0",
+      "516.0"
+    ]
+  },
+  {
+    "departure_delay": "378.0",
+    "num_flights": "272",
+    "arrival_delay_quantiles": [
+      "340.0",
+      "363.0",
+      "371.0",
+      "377.0",
+      "387.0",
+      "505.0"
+    ]
+  },
+  {
+    "departure_delay": "379.0",
+    "num_flights": "256",
+    "arrival_delay_quantiles": [
+      "310.0",
+      "360.0",
+      "369.0",
+      "376.0",
+      "389.0",
+      "486.0"
+    ]
+  },
+  {
+    "departure_delay": "380.0",
+    "num_flights": "339",
+    "arrival_delay_quantiles": [
+      "296.0",
+      "364.0",
+      "371.0",
+      "378.0",
+      "388.0",
+      "521.0"
+    ]
+  },
+  {
+    "departure_delay": "381.0",
+    "num_flights": "281",
+    "arrival_delay_quantiles": [
+      "333.0",
+      "367.0",
+      "373.0",
+      "379.0",
+      "393.0",
+      "481.0"
+    ]
+  },
+  {
+    "departure_delay": "382.0",
+    "num_flights": "269",
+    "arrival_delay_quantiles": [
+      "334.0",
+      "368.0",
+      "374.0",
+      "383.0",
+      "397.0",
+      "539.0"
+    ]
+  },
+  {
+    "departure_delay": "383.0",
+    "num_flights": "283",
+    "arrival_delay_quantiles": [
+      "341.0",
+      "368.0",
+      "375.0",
+      "384.0",
+      "396.0",
+      "486.0"
+    ]
+  },
+  {
+    "departure_delay": "384.0",
+    "num_flights": "247",
+    "arrival_delay_quantiles": [
+      "294.0",
+      "367.0",
+      "375.0",
+      "383.0",
+      "395.0",
+      "551.0"
+    ]
+  },
+  {
+    "departure_delay": "385.0",
+    "num_flights": "347",
+    "arrival_delay_quantiles": [
+      "206.0",
+      "368.0",
+      "378.0",
+      "385.0",
+      "395.0",
+      "556.0"
+    ]
+  },
+  {
+    "departure_delay": "386.0",
+    "num_flights": "275",
+    "arrival_delay_quantiles": [
+      "338.0",
+      "370.0",
+      "376.0",
+      "382.0",
+      "391.0",
+      "500.0"
+    ]
+  },
+  {
+    "departure_delay": "387.0",
+    "num_flights": "236",
+    "arrival_delay_quantiles": [
+      "331.0",
+      "373.0",
+      "380.0",
+      "387.0",
+      "399.0",
+      "503.0"
+    ]
+  },
+  {
+    "departure_delay": "388.0",
+    "num_flights": "272",
+    "arrival_delay_quantiles": [
+      "297.0",
+      "372.0",
+      "380.0",
+      "386.0",
+      "397.0",
+      "543.0"
+    ]
+  },
+  {
+    "departure_delay": "389.0",
+    "num_flights": "250",
+    "arrival_delay_quantiles": [
+      "345.0",
+      "372.0",
+      "381.0",
+      "388.0",
+      "397.0",
+      "603.0"
+    ]
+  },
+  {
+    "departure_delay": "390.0",
+    "num_flights": "340",
+    "arrival_delay_quantiles": [
+      "324.0",
+      "374.0",
+      "383.0",
+      "389.0",
+      "402.0",
+      "557.0"
+    ]
+  },
+  {
+    "departure_delay": "391.0",
+    "num_flights": "266",
+    "arrival_delay_quantiles": [
+      "340.0",
+      "374.0",
+      "382.0",
+      "390.0",
+      "398.0",
+      "501.0"
+    ]
+  },
+  {
+    "departure_delay": "392.0",
+    "num_flights": "217",
+    "arrival_delay_quantiles": [
+      "348.0",
+      "376.0",
+      "384.0",
+      "390.0",
+      "402.0",
+      "492.0"
+    ]
+  },
+  {
+    "departure_delay": "393.0",
+    "num_flights": "226",
+    "arrival_delay_quantiles": [
+      "339.0",
+      "377.0",
+      "383.0",
+      "389.0",
+      "404.0",
+      "519.0"
+    ]
+  },
+  {
+    "departure_delay": "394.0",
+    "num_flights": "259",
+    "arrival_delay_quantiles": [
+      "346.0",
+      "378.0",
+      "385.0",
+      "393.0",
+      "406.0",
+      "534.0"
+    ]
+  },
+  {
+    "departure_delay": "395.0",
+    "num_flights": "311",
+    "arrival_delay_quantiles": [
+      "199.0",
+      "380.0",
+      "388.0",
+      "394.0",
+      "404.0",
+      "538.0"
+    ]
+  },
+  {
+    "departure_delay": "396.0",
+    "num_flights": "218",
+    "arrival_delay_quantiles": [
+      "235.0",
+      "379.0",
+      "388.0",
+      "394.0",
+      "405.0",
+      "549.0"
+    ]
+  },
+  {
+    "departure_delay": "397.0",
+    "num_flights": "228",
+    "arrival_delay_quantiles": [
+      "356.0",
+      "380.0",
+      "388.0",
+      "396.0",
+      "407.0",
+      "576.0"
+    ]
+  },
+  {
+    "departure_delay": "398.0",
+    "num_flights": "233",
+    "arrival_delay_quantiles": [
+      "344.0",
+      "382.0",
+      "391.0",
+      "398.0",
+      "410.0",
+      "549.0"
+    ]
+  },
+  {
+    "departure_delay": "399.0",
+    "num_flights": "213",
+    "arrival_delay_quantiles": [
+      "360.0",
+      "383.0",
+      "391.0",
+      "399.0",
+      "411.0",
+      "551.0"
+    ]
+  },
+  {
+    "departure_delay": "400.0",
+    "num_flights": "294",
+    "arrival_delay_quantiles": [
+      "346.0",
+      "384.0",
+      "391.0",
+      "398.0",
+      "407.0",
+      "516.0"
+    ]
+  },
+  {
+    "departure_delay": "401.0",
+    "num_flights": "229",
+    "arrival_delay_quantiles": [
+      "340.0",
+      "384.0",
+      "392.0",
+      "400.0",
+      "410.0",
+      "522.0"
+    ]
+  },
+  {
+    "departure_delay": "402.0",
+    "num_flights": "234",
+    "arrival_delay_quantiles": [
+      "363.0",
+      "387.0",
+      "396.0",
+      "404.0",
+      "418.0",
+      "496.0"
+    ]
+  },
+  {
+    "departure_delay": "403.0",
+    "num_flights": "213",
+    "arrival_delay_quantiles": [
+      "352.0",
+      "388.0",
+      "395.0",
+      "402.0",
+      "411.0",
+      "587.0"
+    ]
+  },
+  {
+    "departure_delay": "404.0",
+    "num_flights": "182",
+    "arrival_delay_quantiles": [
+      "361.0",
+      "386.0",
+      "394.0",
+      "403.0",
+      "416.0",
+      "463.0"
+    ]
+  },
+  {
+    "departure_delay": "405.0",
+    "num_flights": "267",
+    "arrival_delay_quantiles": [
+      "357.0",
+      "390.0",
+      "397.0",
+      "403.0",
+      "417.0",
+      "559.0"
+    ]
+  },
+  {
+    "departure_delay": "406.0",
+    "num_flights": "222",
+    "arrival_delay_quantiles": [
+      "348.0",
+      "391.0",
+      "398.0",
+      "403.0",
+      "418.0",
+      "481.0"
+    ]
+  },
+  {
+    "departure_delay": "407.0",
+    "num_flights": "209",
+    "arrival_delay_quantiles": [
+      "360.0",
+      "390.0",
+      "398.0",
+      "407.0",
+      "418.0",
+      "570.0"
+    ]
+  },
+  {
+    "departure_delay": "408.0",
+    "num_flights": "185",
+    "arrival_delay_quantiles": [
+      "356.0",
+      "393.0",
+      "400.0",
+      "406.0",
+      "416.0",
+      "554.0"
+    ]
+  },
+  {
+    "departure_delay": "409.0",
+    "num_flights": "179",
+    "arrival_delay_quantiles": [
+      "331.0",
+      "392.0",
+      "400.0",
+      "407.0",
+      "420.0",
+      "544.0"
+    ]
+  },
+  {
+    "departure_delay": "410.0",
+    "num_flights": "262",
+    "arrival_delay_quantiles": [
+      "205.0",
+      "395.0",
+      "401.0",
+      "410.0",
+      "421.0",
+      "765.0"
+    ]
+  },
+  {
+    "departure_delay": "411.0",
+    "num_flights": "206",
+    "arrival_delay_quantiles": [
+      "366.0",
+      "396.0",
+      "401.0",
+      "409.0",
+      "420.0",
+      "529.0"
+    ]
+  },
+  {
+    "departure_delay": "412.0",
+    "num_flights": "186",
+    "arrival_delay_quantiles": [
+      "363.0",
+      "395.0",
+      "404.0",
+      "410.0",
+      "422.0",
+      "554.0"
+    ]
+  },
+  {
+    "departure_delay": "413.0",
+    "num_flights": "183",
+    "arrival_delay_quantiles": [
+      "372.0",
+      "396.0",
+      "404.0",
+      "412.0",
+      "424.0",
+      "496.0"
+    ]
+  },
+  {
+    "departure_delay": "414.0",
+    "num_flights": "182",
+    "arrival_delay_quantiles": [
+      "355.0",
+      "397.0",
+      "405.0",
+      "414.0",
+      "423.0",
+      "572.0"
+    ]
+  },
+  {
+    "departure_delay": "415.0",
+    "num_flights": "228",
+    "arrival_delay_quantiles": [
+      "253.0",
+      "397.0",
+      "407.0",
+      "415.0",
+      "426.0",
+      "532.0"
+    ]
+  },
+  {
+    "departure_delay": "416.0",
+    "num_flights": "192",
+    "arrival_delay_quantiles": [
+      "372.0",
+      "400.0",
+      "407.0",
+      "414.0",
+      "424.0",
+      "542.0"
+    ]
+  },
+  {
+    "departure_delay": "417.0",
+    "num_flights": "178",
+    "arrival_delay_quantiles": [
+      "360.0",
+      "402.0",
+      "411.0",
+      "418.0",
+      "432.0",
+      "505.0"
+    ]
+  },
+  {
+    "departure_delay": "418.0",
+    "num_flights": "175",
+    "arrival_delay_quantiles": [
+      "-1035.0",
+      "404.0",
+      "410.0",
+      "417.0",
+      "426.0",
+      "685.0"
+    ]
+  },
+  {
+    "departure_delay": "419.0",
+    "num_flights": "202",
+    "arrival_delay_quantiles": [
+      "386.0",
+      "401.0",
+      "409.0",
+      "418.0",
+      "427.0",
+      "525.0"
+    ]
+  },
+  {
+    "departure_delay": "420.0",
+    "num_flights": "209",
+    "arrival_delay_quantiles": [
+      "318.0",
+      "404.0",
+      "412.0",
+      "418.0",
+      "429.0",
+      "531.0"
+    ]
+  },
+  {
+    "departure_delay": "421.0",
+    "num_flights": "162",
+    "arrival_delay_quantiles": [
+      "366.0",
+      "404.0",
+      "414.0",
+      "421.0",
+      "435.0",
+      "559.0"
+    ]
+  },
+  {
+    "departure_delay": "422.0",
+    "num_flights": "186",
+    "arrival_delay_quantiles": [
+      "380.0",
+      "406.0",
+      "414.0",
+      "422.0",
+      "433.0",
+      "541.0"
+    ]
+  },
+  {
+    "departure_delay": "423.0",
+    "num_flights": "157",
+    "arrival_delay_quantiles": [
+      "379.0",
+      "403.0",
+      "413.0",
+      "420.0",
+      "432.0",
+      "471.0"
+    ]
+  },
+  {
+    "departure_delay": "424.0",
+    "num_flights": "147",
+    "arrival_delay_quantiles": [
+      "388.0",
+      "409.0",
+      "416.0",
+      "423.0",
+      "435.0",
+      "522.0"
+    ]
+  },
+  {
+    "departure_delay": "425.0",
+    "num_flights": "198",
+    "arrival_delay_quantiles": [
+      "376.0",
+      "410.0",
+      "418.0",
+      "425.0",
+      "435.0",
+      "579.0"
+    ]
+  },
+  {
+    "departure_delay": "426.0",
+    "num_flights": "149",
+    "arrival_delay_quantiles": [
+      "370.0",
+      "405.0",
+      "416.0",
+      "423.0",
+      "434.0",
+      "558.0"
+    ]
+  },
+  {
+    "departure_delay": "427.0",
+    "num_flights": "160",
+    "arrival_delay_quantiles": [
+      "319.0",
+      "409.0",
+      "417.0",
+      "425.0",
+      "437.0",
+      "528.0"
+    ]
+  },
+  {
+    "departure_delay": "428.0",
+    "num_flights": "170",
+    "arrival_delay_quantiles": [
+      "394.0",
+      "411.0",
+      "418.0",
+      "426.0",
+      "438.0",
+      "577.0"
+    ]
+  },
+  {
+    "departure_delay": "429.0",
+    "num_flights": "165",
+    "arrival_delay_quantiles": [
+      "377.0",
+      "414.0",
+      "423.0",
+      "428.0",
+      "443.0",
+      "687.0"
+    ]
+  },
+  {
+    "departure_delay": "430.0",
+    "num_flights": "202",
+    "arrival_delay_quantiles": [
+      "391.0",
+      "417.0",
+      "423.0",
+      "430.0",
+      "442.0",
+      "581.0"
+    ]
+  },
+  {
+    "departure_delay": "431.0",
+    "num_flights": "146",
+    "arrival_delay_quantiles": [
+      "384.0",
+      "414.0",
+      "422.0",
+      "428.0",
+      "440.0",
+      "559.0"
+    ]
+  },
+  {
+    "departure_delay": "432.0",
+    "num_flights": "130",
+    "arrival_delay_quantiles": [
+      "382.0",
+      "416.0",
+      "423.0",
+      "429.0",
+      "440.0",
+      "581.0"
+    ]
+  },
+  {
+    "departure_delay": "433.0",
+    "num_flights": "112",
+    "arrival_delay_quantiles": [
+      "383.0",
+      "417.0",
+      "425.0",
+      "432.0",
+      "441.0",
+      "575.0"
+    ]
+  },
+  {
+    "departure_delay": "434.0",
+    "num_flights": "154",
+    "arrival_delay_quantiles": [
+      "391.0",
+      "415.0",
+      "423.0",
+      "430.0",
+      "444.0",
+      "509.0"
+    ]
+  },
+  {
+    "departure_delay": "435.0",
+    "num_flights": "175",
+    "arrival_delay_quantiles": [
+      "254.0",
+      "420.0",
+      "429.0",
+      "436.0",
+      "450.0",
+      "535.0"
+    ]
+  },
+  {
+    "departure_delay": "436.0",
+    "num_flights": "113",
+    "arrival_delay_quantiles": [
+      "390.0",
+      "419.0",
+      "427.0",
+      "435.0",
+      "448.0",
+      "677.0"
+    ]
+  },
+  {
+    "departure_delay": "437.0",
+    "num_flights": "116",
+    "arrival_delay_quantiles": [
+      "387.0",
+      "422.0",
+      "429.0",
+      "437.0",
+      "448.0",
+      "525.0"
+    ]
+  },
+  {
+    "departure_delay": "438.0",
+    "num_flights": "117",
+    "arrival_delay_quantiles": [
+      "400.0",
+      "422.0",
+      "430.0",
+      "437.0",
+      "443.0",
+      "550.0"
+    ]
+  },
+  {
+    "departure_delay": "439.0",
+    "num_flights": "140",
+    "arrival_delay_quantiles": [
+      "380.0",
+      "424.0",
+      "430.0",
+      "437.0",
+      "447.0",
+      "564.0"
+    ]
+  },
+  {
+    "departure_delay": "440.0",
+    "num_flights": "185",
+    "arrival_delay_quantiles": [
+      "402.0",
+      "426.0",
+      "431.0",
+      "438.0",
+      "447.0",
+      "550.0"
+    ]
+  },
+  {
+    "departure_delay": "441.0",
+    "num_flights": "140",
+    "arrival_delay_quantiles": [
+      "402.0",
+      "425.0",
+      "433.0",
+      "441.0",
+      "452.0",
+      "610.0"
+    ]
+  },
+  {
+    "departure_delay": "442.0",
+    "num_flights": "142",
+    "arrival_delay_quantiles": [
+      "394.0",
+      "428.0",
+      "434.0",
+      "439.0",
+      "449.0",
+      "582.0"
+    ]
+  },
+  {
+    "departure_delay": "443.0",
+    "num_flights": "123",
+    "arrival_delay_quantiles": [
+      "406.0",
+      "426.0",
+      "433.0",
+      "439.0",
+      "449.0",
+      "506.0"
+    ]
+  },
+  {
+    "departure_delay": "444.0",
+    "num_flights": "119",
+    "arrival_delay_quantiles": [
+      "390.0",
+      "424.0",
+      "434.0",
+      "443.0",
+      "456.0",
+      "566.0"
+    ]
+  },
+  {
+    "departure_delay": "445.0",
+    "num_flights": "156",
+    "arrival_delay_quantiles": [
+      "416.0",
+      "430.0",
+      "438.0",
+      "445.0",
+      "456.0",
+      "527.0"
+    ]
+  },
+  {
+    "departure_delay": "446.0",
+    "num_flights": "105",
+    "arrival_delay_quantiles": [
+      "412.0",
+      "430.0",
+      "439.0",
+      "445.0",
+      "454.0",
+      "521.0"
+    ]
+  },
+  {
+    "departure_delay": "447.0",
+    "num_flights": "125",
+    "arrival_delay_quantiles": [
+      "392.0",
+      "430.0",
+      "440.0",
+      "445.0",
+      "456.0",
+      "546.0"
+    ]
+  },
+  {
+    "departure_delay": "448.0",
+    "num_flights": "120",
+    "arrival_delay_quantiles": [
+      "232.0",
+      "433.0",
+      "440.0",
+      "446.0",
+      "455.0",
+      "505.0"
+    ]
+  },
+  {
+    "departure_delay": "449.0",
+    "num_flights": "114",
+    "arrival_delay_quantiles": [
+      "352.0",
+      "433.0",
+      "441.0",
+      "446.0",
+      "453.0",
+      "509.0"
+    ]
+  },
+  {
+    "departure_delay": "450.0",
+    "num_flights": "175",
+    "arrival_delay_quantiles": [
+      "368.0",
+      "433.0",
+      "442.0",
+      "450.0",
+      "461.0",
+      "524.0"
+    ]
+  },
+  {
+    "departure_delay": "451.0",
+    "num_flights": "111",
+    "arrival_delay_quantiles": [
+      "407.0",
+      "435.0",
+      "441.0",
+      "446.0",
+      "457.0",
+      "512.0"
+    ]
+  },
+  {
+    "departure_delay": "452.0",
+    "num_flights": "118",
+    "arrival_delay_quantiles": [
+      "400.0",
+      "437.0",
+      "444.0",
+      "450.0",
+      "463.0",
+      "564.0"
+    ]
+  },
+  {
+    "departure_delay": "453.0",
+    "num_flights": "114",
+    "arrival_delay_quantiles": [
+      "396.0",
+      "435.0",
+      "443.0",
+      "451.0",
+      "460.0",
+      "498.0"
+    ]
+  },
+  {
+    "departure_delay": "454.0",
+    "num_flights": "130",
+    "arrival_delay_quantiles": [
+      "404.0",
+      "434.0",
+      "446.0",
+      "452.0",
+      "462.0",
+      "533.0"
+    ]
+  },
+  {
+    "departure_delay": "455.0",
+    "num_flights": "131",
+    "arrival_delay_quantiles": [
+      "409.0",
+      "439.0",
+      "446.0",
+      "455.0",
+      "464.0",
+      "616.0"
+    ]
+  },
+  {
+    "departure_delay": "457.0",
+    "num_flights": "110",
+    "arrival_delay_quantiles": [
+      "413.0",
+      "439.0",
+      "447.0",
+      "454.0",
+      "467.0",
+      "537.0"
+    ]
+  },
+  {
+    "departure_delay": "458.0",
+    "num_flights": "111",
+    "arrival_delay_quantiles": [
+      "412.0",
+      "444.0",
+      "450.0",
+      "458.0",
+      "468.0",
+      "569.0"
+    ]
+  },
+  {
+    "departure_delay": "460.0",
+    "num_flights": "153",
+    "arrival_delay_quantiles": [
+      "375.0",
+      "442.0",
+      "450.0",
+      "458.0",
+      "468.0",
+      "622.0"
+    ]
+  },
+  {
+    "departure_delay": "461.0",
+    "num_flights": "108",
+    "arrival_delay_quantiles": [
+      "411.0",
+      "443.0",
+      "453.0",
+      "460.0",
+      "471.0",
+      "511.0"
+    ]
+  },
+  {
+    "departure_delay": "462.0",
+    "num_flights": "113",
+    "arrival_delay_quantiles": [
+      "423.0",
+      "444.0",
+      "453.0",
+      "460.0",
+      "468.0",
+      "524.0"
+    ]
+  },
+  {
+    "departure_delay": "463.0",
+    "num_flights": "109",
+    "arrival_delay_quantiles": [
+      "427.0",
+      "447.0",
+      "453.0",
+      "462.0",
+      "478.0",
+      "584.0"
+    ]
+  },
+  {
+    "departure_delay": "464.0",
+    "num_flights": "109",
+    "arrival_delay_quantiles": [
+      "428.0",
+      "448.0",
+      "457.0",
+      "466.0",
+      "478.0",
+      "566.0"
+    ]
+  },
+  {
+    "departure_delay": "465.0",
+    "num_flights": "133",
+    "arrival_delay_quantiles": [
+      "415.0",
+      "449.0",
+      "459.0",
+      "466.0",
+      "475.0",
+      "645.0"
+    ]
+  },
+  {
+    "departure_delay": "466.0",
+    "num_flights": "113",
+    "arrival_delay_quantiles": [
+      "425.0",
+      "450.0",
+      "457.0",
+      "464.0",
+      "473.0",
+      "527.0"
+    ]
+  },
+  {
+    "departure_delay": "470.0",
+    "num_flights": "124",
+    "arrival_delay_quantiles": [
+      "432.0",
+      "451.0",
+      "460.0",
+      "468.0",
+      "476.0",
+      "676.0"
+    ]
+  },
+  {
+    "departure_delay": "472.0",
+    "num_flights": "102",
+    "arrival_delay_quantiles": [
+      "410.0",
+      "452.0",
+      "463.0",
+      "468.0",
+      "477.0",
+      "586.0"
+    ]
+  },
+  {
+    "departure_delay": "475.0",
+    "num_flights": "122",
+    "arrival_delay_quantiles": [
+      "435.0",
+      "459.0",
+      "466.0",
+      "473.0",
+      "487.0",
+      "524.0"
+    ]
+  },
+  {
+    "departure_delay": "480.0",
+    "num_flights": "133",
+    "arrival_delay_quantiles": [
+      "423.0",
+      "463.0",
+      "473.0",
+      "479.0",
+      "493.0",
+      "611.0"
+    ]
+  },
+  {
+    "departure_delay": "485.0",
+    "num_flights": "102",
+    "arrival_delay_quantiles": [
+      "373.0",
+      "469.0",
+      "476.0",
+      "485.0",
+      "498.0",
+      "670.0"
+    ]
+  },
+  {
+    "departure_delay": "490.0",
+    "num_flights": "110",
+    "arrival_delay_quantiles": [
+      "286.0",
+      "478.0",
+      "485.0",
+      "494.0",
+      "504.0",
+      "553.0"
+    ]
+  }
+]

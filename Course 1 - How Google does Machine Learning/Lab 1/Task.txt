@@ -1,0 +1,32 @@
+Human Bias
+1. Interaction Bias - Covering all types of shoes
+2. Latent Bias - Past physicist list was skewed with high number of men
+3. Selection Bias - Collecting face images of everyone
+
+
+Confusion Matrix
+•	False positive rate (α) = type I error = 1 − specificity = FP / (FP + TN)
+•	False negative rate (β) = type II error = 1 − sensitivity = FN / (TP + FN)
+•	True positive rate (TPR), Recall, Sensitivity, probability of detection = Σ True positive/Σ Condition positive
+•	Accuracy (ACC) = Σ True positive + Σ True negative/Σ Total population
+•	Precision = Σ True positive/Σ Predicted condition positive
+
+
+Data Visualization using Facets
+
+
+Week 1 – Task 1
+•	Create a Compute Engine instance with specific security permissions.
+•	SSH into the instance.
+•	Install the software package Git (for source code version control).
+•	Ingest data into the Compute Engine instance.
+•	Transform data on the Compute Engine instance.
+•	Store the transformed data on Cloud Storage.
+•	Publish Cloud Storage data to the web.
+
+
+Task Outcomes
+https://storage.googleapis.com/ex_123/earthquakes/earthquakes.csv 
+https://storage.googleapis.com/ex_123/earthquakes/earthquakes.htm
+https://storage.googleapis.com/ex_123/earthquakes/earthquakes.png
+
